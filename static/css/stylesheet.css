@@ -1,0 +1,26 @@
+body {
+	background-image: url("../images/cover_hazed.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+span {
+    vertical-align: middle;
+    text-align: center;
+    margin: 30px;
+    float: none;
+}
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 92px;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+}
+
+.btn-primary{
+	margin: 30px;
+}
