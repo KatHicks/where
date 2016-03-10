@@ -4,14 +4,66 @@
 	<head>
 		<title>where.</title>
 
-		<link href="bootstrap_3.3.5/css/bootstrap.css" rel="stylesheet">
+		<link href="{{ url_for('static', filename="bootstrap_3.3.5/css/bootstrap.css") }}" rel="stylesheet">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<link href="..static/css/stylesheet.css" rel="stylesheet">
+		<link href="{{ url_for('static', filename="css/stylesheet.css") }}" rel="stylesheet" type="text/css">
 
-		<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>		
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">		
 	</head>
 	
 	<body>
+		<div id="search_window">
+			<form method="post" action="/result" id="search_form">
+
+				<label for="month">When do you want to travel?</label></br>
+				<select id="month" form="search_form">
+					<!--Need to assign the value so its readable by the API-->
+					<option value="January">January</option>
+				    <option value="February">February</option>
+				    <option value="March">March</option>
+				    <option value="April">April</option>
+				    <option value="May">May</option>
+				    <option value="June">June</option>
+				    <option value="July">July</option>
+				    <option value="August">August</option>
+				    <option value="Setpember">Setpember</option>
+				    <option value="October">October</option>
+				    <option value="November">November</option>
+				    <option value="December">December</option>
+				</select>
+				<br>
+
+				<label for="weat23her">How do you want the weather?</label></br>
+				<select id="weather" form="search_form">
+					<option value="25<i">Hot</option>
+					<option value="20<i=<25">Warm</option>
+					<option value="5<i<20">Mild</option>
+					<option value="i<5">Cold</option>
+				</select>
+				<br>
+
+				<label>How much are you able to spend?</label><br>
+
+				<label for="budget_flights">Flights</label></br>
+				<select id="budget_flights" form="search_form">
+					<option value="0<i<100">&#163;0-100</option>
+					<option value="100<i<350">&#163;100-350</option>
+					<option value="350>i">&#163;350+</option>
+				</select>
+				<br>
+
+				<label for="budget_accomodation">Accomodation</label></br>
+				<select id="budget_accomodation" form="search_form">
+					<option value="25<i">Hot</option>
+					<option value="20<i=<25">Warm</option>
+					<option value="5<i<20">Mild</option>
+					<option value="i<5">Cold</option>
+				</select>
+				
+				<br>
+				<input type="submit" value="Submit" id="submit-button" />
+				<br>
+		</div>
 	<body>
 <html>
