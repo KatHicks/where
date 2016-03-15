@@ -1,0 +1,1200 @@
+['Hong Kong'],January,12.2
+['Hong Kong'],February,13.4
+['Hong Kong'],March,16.2
+['Hong Kong'],April,20.4
+['Hong Kong'],May,23.6
+['Hong Kong'],June,25.6
+['Hong Kong'],July,26.2
+['Hong Kong'],August,26
+['Hong Kong'],September,25
+['Hong Kong'],October,22.5
+['Hong Kong'],November,18.4
+['Hong Kong'],December,14.2
+['Singapore'],January,24
+['Singapore'],February,24.2
+['Singapore'],March,24.5
+['Singapore'],April,24.9
+['Singapore'],May,25.3
+['Singapore'],June,25.1
+['Singapore'],July,24.8
+['Singapore'],August,24.7
+['Singapore'],September,24.6
+['Singapore'],October,24.6
+['Singapore'],November,24.2
+['Singapore'],December,24
+['Bangkok'],January,22.8
+['Bangkok'],February,24.1
+['Bangkok'],March,25.7
+['Bangkok'],April,26.7
+['Bangkok'],May,26.5
+['Bangkok'],June,26.4
+['Bangkok'],July,26.2
+['Bangkok'],August,26
+['Bangkok'],September,25.2
+['Bangkok'],October,24.7
+['Bangkok'],November,23.5
+['Bangkok'],December,22
+['London'],January,4.7
+['London'],February,4.6
+['London'],March,5.7
+['London'],April,7.3
+['London'],May,10.2
+['London'],June,13.2
+['London'],July,15.1
+['London'],August,15.2
+['London'],September,12.9
+['London'],October,10
+['London'],November,7.1
+['London'],December,4.7
+['Macau'],January,21.9
+['Macau'],February,20.6
+['Macau'],March,19.7
+['Macau'],April,22.5
+['Macau'],May,22.2
+['Macau'],June,20.6
+['Macau'],July,20.8
+['Macau'],August,19.7
+['Macau'],September,17.4
+['Macau'],October,16.2
+['Macau'],November,15.5
+['Macau'],December,15.2
+['Kuala Lumpur'],January,23.3
+['Kuala Lumpur'],February,23.5
+['Kuala Lumpur'],March,24
+['Kuala Lumpur'],April,24.2
+['Kuala Lumpur'],May,24.5
+['Kuala Lumpur'],June,24.2
+['Kuala Lumpur'],July,23.8
+['Kuala Lumpur'],August,23.8
+['Kuala Lumpur'],September,23.6
+['Kuala Lumpur'],October,23.7
+['Kuala Lumpur'],November,23.6
+['Kuala Lumpur'],December,23.5
+['Shenzhen'],January,10.3
+['Shenzhen'],February,11.6
+['Shenzhen'],March,14.8
+['Shenzhen'],April,18.5
+['Shenzhen'],May,22.2
+['Shenzhen'],June,23.5
+['Shenzhen'],July,24.9
+['Shenzhen'],August,24.8
+['Shenzhen'],September,23
+['Shenzhen'],October,20.5
+['Shenzhen'],November,15.5
+['Shenzhen'],December,11.1
+['New York City'],January,-3
+['New York City'],February,-2.8
+['New York City'],March,0.4
+['New York City'],April,5.6
+['New York City'],May,10.8
+['New York City'],June,16.5
+['New York City'],July,19.7
+['New York City'],August,19.4
+['New York City'],September,15.7
+['New York City'],October,9.5
+['New York City'],November,4.3
+['New York City'],December,-0.7
+['Antalya'],January,4.9
+['Antalya'],February,5.5
+['Antalya'],March,7.6
+['Antalya'],April,10.7
+['Antalya'],May,15.1
+['Antalya'],June,19.6
+['Antalya'],July,22.8
+['Antalya'],August,22.9
+['Antalya'],September,19.1
+['Antalya'],October,15.2
+['Antalya'],November,10
+['Antalya'],December,6.7
+['Paris'],January,2.5
+['Paris'],February,2.4
+['Paris'],March,4.4
+['Paris'],April,5.9
+['Paris'],May,9.9
+['Paris'],June,12.6
+['Paris'],July,14.5
+['Paris'],August,14.5
+['Paris'],September,11.2
+['Paris'],October,8.5
+['Paris'],November,4.5
+['Paris'],December,2.5
+['Istanbul'],January,3
+['Istanbul'],February,2.7
+['Istanbul'],March,4.6
+['Istanbul'],April,8.1
+['Istanbul'],May,13
+['Istanbul'],June,17.8
+['Istanbul'],July,20.7
+['Istanbul'],August,21.1
+['Istanbul'],September,17
+['Istanbul'],October,13.4
+['Istanbul'],November,8.3
+['Istanbul'],December,4.9
+['Rome'],January,3
+['Rome'],February,3
+['Rome'],March,6.1
+['Rome'],April,8.2
+['Rome'],May,13.1
+['Rome'],June,16.8
+['Rome'],July,19
+['Rome'],August,19.3
+['Rome'],September,15.6
+['Rome'],October,12.3
+['Rome'],November,7.9
+['Rome'],December,4.4
+['Dubai'],January,14.6
+['Dubai'],February,15.7
+['Dubai'],March,17.9
+['Dubai'],April,21.2
+['Dubai'],May,24.9
+['Dubai'],June,27.6
+['Dubai'],July,30.1
+['Dubai'],August,30.6
+['Dubai'],September,27.9
+['Dubai'],October,24.4
+['Dubai'],November,20.4
+['Dubai'],December,16.7
+['Guangzhou'],January,10.9
+['Guangzhou'],February,12.3
+['Guangzhou'],March,15.4
+['Guangzhou'],April,19.9
+['Guangzhou'],May,23
+['Guangzhou'],June,25.1
+['Guangzhou'],July,25.8
+['Guangzhou'],August,25.7
+['Guangzhou'],September,24.4
+['Guangzhou'],October,21.2
+['Guangzhou'],November,16.5
+['Guangzhou'],December,12.3
+['Phuket'],January,21.4
+['Phuket'],February,21.4
+['Phuket'],March,22.2
+['Phuket'],April,23.5
+['Phuket'],May,23.8
+['Phuket'],June,23.6
+['Phuket'],July,23.3
+['Phuket'],August,23.3
+['Phuket'],September,23.2
+['Phuket'],October,23.2
+['Phuket'],November,22.9
+['Phuket'],December,22.1
+['Mecca'],January,18.5
+['Mecca'],February,18.9
+['Mecca'],March,20.8
+['Mecca'],April,24.3
+['Mecca'],May,27.6
+['Mecca'],June,28.4
+['Mecca'],July,29.1
+['Mecca'],August,29.4
+['Mecca'],September,28.8
+['Mecca'],October,25.8
+['Mecca'],November,23
+['Mecca'],December,20.3
+['Pattaya'],January,21.6
+['Pattaya'],February,23.3
+['Pattaya'],March,25
+['Pattaya'],April,25.9
+['Pattaya'],May,26
+['Pattaya'],June,25.9
+['Pattaya'],July,25.7
+['Pattaya'],August,25.6
+['Pattaya'],September,25.1
+['Pattaya'],October,24.6
+['Pattaya'],November,23.3
+['Pattaya'],December,21.3
+['Taipei City'],January,13.6
+['Taipei City'],February,13.7
+['Taipei City'],March,15.7
+['Taipei City'],April,19
+['Taipei City'],May,22
+['Taipei City'],June,24.5
+['Taipei City'],July,26.1
+['Taipei City'],August,25.8
+['Taipei City'],September,24.3
+['Taipei City'],October,21.6
+['Taipei City'],November,19.2
+['Taipei City'],December,16
+['Prague'],January,-2.5
+['Prague'],February,-1.8
+['Prague'],March,0.8
+['Prague'],April,4.1
+['Prague'],May,8.6
+['Prague'],June,11.9
+['Prague'],July,13.6
+['Prague'],August,13.3
+['Prague'],September,9.4
+['Prague'],October,5.3
+['Prague'],November,1.1
+['Prague'],December,-1.9
+['Shanghai'],January,1.1
+['Shanghai'],February,2.7
+['Shanghai'],March,6.8
+['Shanghai'],April,12.1
+['Shanghai'],May,17.2
+['Shanghai'],June,21.7
+['Shanghai'],July,25.8
+['Shanghai'],August,25.5
+['Shanghai'],September,21.3
+['Shanghai'],October,15.4
+['Shanghai'],November,9.5
+['Shanghai'],December,3.3
+['Las Vegas'],January,2.8
+['Las Vegas'],February,4.9
+['Las Vegas'],March,8.5
+['Las Vegas'],April,12.2
+['Las Vegas'],May,17.4
+['Las Vegas'],June,22.3
+['Las Vegas'],July,26.1
+['Las Vegas'],August,25.5
+['Las Vegas'],September,20.7
+['Las Vegas'],October,13.9
+['Las Vegas'],November,6.9
+['Las Vegas'],December,2.4
+['Miami'],January,15.8
+['Miami'],February,16.3
+['Miami'],March,18
+['Miami'],April,19.8
+['Miami'],May,22.4
+['Miami'],June,24
+['Miami'],July,24.8
+['Miami'],August,24.9
+['Miami'],September,24.5
+['Miami'],October,22.8
+['Miami'],November,19.6
+['Miami'],December,16.9
+['Barcelona'],January,5.3
+['Barcelona'],February,6
+['Barcelona'],March,7.9
+['Barcelona'],April,9.7
+['Barcelona'],May,13.4
+['Barcelona'],June,17.2
+['Barcelona'],July,19.9
+['Barcelona'],August,20.6
+['Barcelona'],September,17.4
+['Barcelona'],October,13.8
+['Barcelona'],November,8.8
+['Barcelona'],December,6.1
+['Moscow'],January,-9.3
+['Moscow'],February,-10.6
+['Moscow'],March,-5.6
+['Moscow'],April,1
+['Moscow'],May,5.7
+['Moscow'],June,10.5
+['Moscow'],July,13
+['Moscow'],August,11.3
+['Moscow'],September,6.1
+['Moscow'],October,1.6
+['Moscow'],November,-4.5
+['Moscow'],December,-8.3
+['Beijing'],January,-8.5
+['Beijing'],February,-5.3
+['Beijing'],March,0.5
+['Beijing'],April,7.8
+['Beijing'],May,13.6
+['Beijing'],June,19
+['Beijing'],July,21.8
+['Beijing'],August,20.7
+['Beijing'],September,14.8
+['Beijing'],October,7.3
+['Beijing'],November,-0.8
+['Beijing'],December,-6.3
+['Los Angeles'],January,8.6
+['Los Angeles'],February,9.4
+['Los Angeles'],March,10.5
+['Los Angeles'],April,11.8
+['Los Angeles'],May,13.8
+['Los Angeles'],June,15.7
+['Los Angeles'],July,17.5
+['Los Angeles'],August,17.9
+['Los Angeles'],September,17.1
+['Los Angeles'],October,14.7
+['Los Angeles'],November,11.3
+['Los Angeles'],December,8.6
+['Budapest'],January,-2.8
+['Budapest'],February,-1.6
+['Budapest'],March,2.1
+['Budapest'],April,6.8
+['Budapest'],May,11.4
+['Budapest'],June,14.5
+['Budapest'],July,16.4
+['Budapest'],August,16.2
+['Budapest'],September,11.5
+['Budapest'],October,6.9
+['Budapest'],November,2.3
+['Budapest'],December,-2.1
+['Vienna'],January,-2.8
+['Vienna'],February,-2.1
+['Vienna'],March,1.1
+['Vienna'],April,4.6
+['Vienna'],May,9.4
+['Vienna'],June,12.8
+['Vienna'],July,14.4
+['Vienna'],August,14.1
+['Vienna'],September,10.2
+['Vienna'],October,6
+['Vienna'],November,2
+['Vienna'],December,-1.9
+['Amsterdam'],January,3.4
+['Amsterdam'],February,2.5
+['Amsterdam'],March,5.5
+['Amsterdam'],April,6.5
+['Amsterdam'],May,10.7
+['Amsterdam'],June,11
+['Amsterdam'],July,12
+['Amsterdam'],August,12
+['Amsterdam'],September,10
+['Amsterdam'],October,9.3
+['Amsterdam'],November,5.6
+['Amsterdam'],December,1
+['Sofia'],January,-5.4
+['Sofia'],February,-4
+['Sofia'],March,0
+['Sofia'],April,4.5
+['Sofia'],May,8.9
+['Sofia'],June,12.5
+['Sofia'],July,14.3
+['Sofia'],August,14
+['Sofia'],September,9.8
+['Sofia'],October,5.6
+['Sofia'],November,0.2
+['Sofia'],December,-4
+['Madrid'],January,1.8
+['Madrid'],February,2.8
+['Madrid'],March,5.3
+['Madrid'],April,6.9
+['Madrid'],May,10.7
+['Madrid'],June,15.6
+['Madrid'],July,18.2
+['Madrid'],August,18.2
+['Madrid'],September,14.6
+['Madrid'],October,10.1
+['Madrid'],November,5
+['Madrid'],December,2.7
+['Orlando'],January,9.8
+['Orlando'],February,10.9
+['Orlando'],March,12.9
+['Orlando'],April,15.2
+['Orlando'],May,18.8
+['Orlando'],June,21.9
+['Orlando'],July,22.9
+['Orlando'],August,23
+['Orlando'],September,22.5
+['Orlando'],October,18.9
+['Orlando'],November,14.2
+['Orlando'],December,10.8
+['Ho Chi Minh City'],January,21.6
+['Ho Chi Minh City'],February,22.4
+['Ho Chi Minh City'],March,24.1
+['Ho Chi Minh City'],April,25.5
+['Ho Chi Minh City'],May,25.2
+['Ho Chi Minh City'],June,24.5
+['Ho Chi Minh City'],July,24.1
+['Ho Chi Minh City'],August,24.2
+['Ho Chi Minh City'],September,24.1
+['Ho Chi Minh City'],October,23.5
+['Ho Chi Minh City'],November,22.8
+['Ho Chi Minh City'],December,21.6
+['Lima'],January,20
+['Lima'],February,20.5
+['Lima'],March,20.1
+['Lima'],April,18.4
+['Lima'],May,16.8
+['Lima'],June,16
+['Lima'],July,15.6
+['Lima'],August,15.3
+['Lima'],September,15.2
+['Lima'],October,15.7
+['Lima'],November,16.9
+['Lima'],December,18.5
+['Berlin'],January,-1
+['Berlin'],February,-2.2
+['Berlin'],March,1.4
+['Berlin'],April,4.4
+['Berlin'],May,9.2
+['Berlin'],June,11.9
+['Berlin'],July,14.3
+['Berlin'],August,14
+['Berlin'],September,10.8
+['Berlin'],October,7.4
+['Berlin'],November,2.7
+['Berlin'],December,0.1
+['Tokyo'],January,-1
+['Tokyo'],February,-0.4
+['Tokyo'],March,2.7
+['Tokyo'],April,8.2
+['Tokyo'],May,13.2
+['Tokyo'],June,17.8
+['Tokyo'],July,21.7
+['Tokyo'],August,22.7
+['Tokyo'],September,19.1
+['Tokyo'],October,12.9
+['Tokyo'],November,6.3
+['Tokyo'],December,1.1
+['Warsaw'],January,-4
+['Warsaw'],February,-3.5
+['Warsaw'],March,-1.3
+['Warsaw'],April,3.3
+['Warsaw'],May,8
+['Warsaw'],June,11.3
+['Warsaw'],July,13.6
+['Warsaw'],August,12.8
+['Warsaw'],September,8.5
+['Warsaw'],October,4.4
+['Warsaw'],November,0
+['Warsaw'],December,-3.4
+['Chennai'],January,20.7
+['Chennai'],February,21.7
+['Chennai'],March,23.6
+['Chennai'],April,26
+['Chennai'],May,27.4
+['Chennai'],June,26.9
+['Chennai'],July,26
+['Chennai'],August,25.5
+['Chennai'],September,25.2
+['Chennai'],October,24.3
+['Chennai'],November,22.9
+['Chennai'],December,21.3
+['Cairo'],January,8.3
+['Cairo'],February,8.9
+['Cairo'],March,11.3
+['Cairo'],April,14.2
+['Cairo'],May,17.4
+['Cairo'],June,20.4
+['Cairo'],July,22.6
+['Cairo'],August,22.9
+['Cairo'],September,21
+['Cairo'],October,18
+['Cairo'],November,13.7
+['Cairo'],December,9.7
+['Nairobi'],January,13.6
+['Nairobi'],February,13.4
+['Nairobi'],March,14.8
+['Nairobi'],April,15.1
+['Nairobi'],May,14.3
+['Nairobi'],June,12.6
+['Nairobi'],July,11.5
+['Nairobi'],August,11.8
+['Nairobi'],September,12.2
+['Nairobi'],October,13.9
+['Nairobi'],November,14.7
+['Nairobi'],December,14.3
+['Hangzhou'],January,1.1
+['Hangzhou'],February,2.6
+['Hangzhou'],March,6.4
+['Hangzhou'],April,11.8
+['Hangzhou'],May,16.9
+['Hangzhou'],June,21.2
+['Hangzhou'],July,25
+['Hangzhou'],August,24.6
+['Hangzhou'],September,20.4
+['Hangzhou'],October,14.5
+['Hangzhou'],November,8.4
+['Hangzhou'],December,2.9
+['Milan'],January,-0.5
+['Milan'],February,0.5
+['Milan'],March,4.4
+['Milan'],April,7.7
+['Milan'],May,13.2
+['Milan'],June,16.9
+['Milan'],July,18.9
+['Milan'],August,18.7
+['Milan'],September,14.4
+['Milan'],October,10.3
+['Milan'],November,4.7
+['Milan'],December,0.5
+['San Francisco'],January,4.1
+['San Francisco'],February,5.5
+['San Francisco'],March,7
+['San Francisco'],April,7.9
+['San Francisco'],May,11.2
+['San Francisco'],June,13.3
+['San Francisco'],July,14.7
+['San Francisco'],August,14.5
+['San Francisco'],September,13.3
+['San Francisco'],October,10.8
+['San Francisco'],November,6.6
+['San Francisco'],December,4.3
+['Buenos Aires'],January,20.7
+['Buenos Aires'],February,19.8
+['Buenos Aires'],March,18.6
+['Buenos Aires'],April,14.8
+['Buenos Aires'],May,11.6
+['Buenos Aires'],June,9
+['Buenos Aires'],July,8.1
+['Buenos Aires'],August,9.4
+['Buenos Aires'],September,11
+['Buenos Aires'],October,14.3
+['Buenos Aires'],November,16.5
+['Buenos Aires'],December,19
+['Venice'],January,0.1
+['Venice'],February,0.6
+['Venice'],March,4.5
+['Venice'],April,8.3
+['Venice'],May,13.5
+['Venice'],June,16.9
+['Venice'],July,18.7
+['Venice'],August,18.5
+['Venice'],September,14.4
+['Venice'],October,10.4
+['Venice'],November,5.3
+['Venice'],December,1.1
+['Mexico City'],January,6.1
+['Mexico City'],February,7.5
+['Mexico City'],March,9.3
+['Mexico City'],April,11.7
+['Mexico City'],May,12.6
+['Mexico City'],June,13.6
+['Mexico City'],July,13.1
+['Mexico City'],August,13.1
+['Mexico City'],September,13
+['Mexico City'],October,11.1
+['Mexico City'],November,8.2
+['Mexico City'],December,6.4
+['Dublin'],January,2.3
+['Dublin'],February,2.3
+['Dublin'],March,3.2
+['Dublin'],April,4.1
+['Dublin'],May,6.6
+['Dublin'],June,9.2
+['Dublin'],July,11.2
+['Dublin'],August,11.1
+['Dublin'],September,9.3
+['Dublin'],October,6.9
+['Dublin'],November,4.3
+['Dublin'],December,2.4
+['Seoul'],January,-5.7
+['Seoul'],February,-3.5
+['Seoul'],March,1.5
+['Seoul'],April,7.6
+['Seoul'],May,12.8
+['Seoul'],June,17.8
+['Seoul'],July,21.6
+['Seoul'],August,22.1
+['Seoul'],September,16.9
+['Seoul'],October,9.8
+['Seoul'],November,2.8
+['Seoul'],December,-3.4
+['Mugla'],January,1.2
+['Mugla'],February,1.4
+['Mugla'],March,3.6
+['Mugla'],April,7.1
+['Mugla'],May,11.7
+['Mugla'],June,16.8
+['Mugla'],July,20.2
+['Mugla'],August,20.3
+['Mugla'],September,15.3
+['Mugla'],October,10.5
+['Mugla'],November,5.5
+['Mugla'],December,2.9
+['Mumbai'],January,16.9
+['Mumbai'],February,18
+['Mumbai'],March,21.1
+['Mumbai'],April,24
+['Mumbai'],May,26.7
+['Mumbai'],June,26.4
+['Mumbai'],July,25.5
+['Mumbai'],August,25.2
+['Mumbai'],September,24.7
+['Mumbai'],October,23.6
+['Mumbai'],November,21.2
+['Mumbai'],December,18.3
+['Denpasar'],January,24.9
+['Denpasar'],February,24.9
+['Denpasar'],March,24.8
+['Denpasar'],April,24.7
+['Denpasar'],May,24.2
+['Denpasar'],June,24
+['Denpasar'],July,23.6
+['Denpasar'],August,23.3
+['Denpasar'],September,23.5
+['Denpasar'],October,24.4
+['Denpasar'],November,25
+['Denpasar'],December,25
+['Delhi'],January,7.5
+['Delhi'],February,10.6
+['Delhi'],March,15.5
+['Delhi'],April,21
+['Delhi'],May,25.6
+['Delhi'],June,27.5
+['Delhi'],July,27.3
+['Delhi'],August,26.6
+['Delhi'],September,24.7
+['Delhi'],October,19.1
+['Delhi'],November,12.8
+['Delhi'],December,8.3
+['Toronto'],January,-6.5
+['Toronto'],February,-6.2
+['Toronto'],March,-2.4
+['Toronto'],April,2.8
+['Toronto'],May,8.1
+['Toronto'],June,14.3
+['Toronto'],July,18
+['Toronto'],August,18.2
+['Toronto'],September,14.6
+['Toronto'],October,8.4
+['Toronto'],November,2.8
+['Toronto'],December,-3.2
+['Zhuhai'],January,12.1
+['Zhuhai'],February,13.2
+['Zhuhai'],March,16.2
+['Zhuhai'],April,20.3
+['Zhuhai'],May,23.5
+['Zhuhai'],June,25.6
+['Zhuhai'],July,26.3
+['Zhuhai'],August,26
+['Zhuhai'],September,24.9
+['Zhuhai'],October,22.3
+['Zhuhai'],November,18
+['Zhuhai'],December,13.7
+['St Petersburg'],January,-8
+['St Petersburg'],February,-9.5
+['St Petersburg'],March,-5.5
+['St Petersburg'],April,0.2
+['St Petersburg'],May,4.5
+['St Petersburg'],June,9.7
+['St Petersburg'],July,12.6
+['St Petersburg'],August,11.3
+['St Petersburg'],September,6.6
+['St Petersburg'],October,2.3
+['St Petersburg'],November,-3.3
+['St Petersburg'],December,-6.7
+['Burgas'],January,1.1
+['Burgas'],February,1.3
+['Burgas'],March,4
+['Burgas'],April,7.1
+['Burgas'],May,11.4
+['Burgas'],June,16
+['Burgas'],July,18.7
+['Burgas'],August,18.9
+['Burgas'],September,15.1
+['Burgas'],October,11.5
+['Burgas'],November,6.4
+['Burgas'],December,2.7
+['Sydney'],January,19.4
+['Sydney'],February,19.5
+['Sydney'],March,17.8
+['Sydney'],April,14.6
+['Sydney'],May,11.8
+['Sydney'],June,9.1
+['Sydney'],July,7.9
+['Sydney'],August,8.7
+['Sydney'],September,11
+['Sydney'],October,13.6
+['Sydney'],November,15.7
+['Sydney'],December,18
+['Djerba'],January,9
+['Djerba'],February,9.3
+['Djerba'],March,11.6
+['Djerba'],April,14.1
+['Djerba'],May,17.4
+['Djerba'],June,20.8
+['Djerba'],July,23
+['Djerba'],August,24.3
+['Djerba'],September,23
+['Djerba'],October,19.5
+['Djerba'],November,14.5
+['Djerba'],December,10.7
+['Munich'],January,-3.8
+['Munich'],February,-3
+['Munich'],March,0.3
+['Munich'],April,3.3
+['Munich'],May,7.9
+['Munich'],June,11.1
+['Munich'],July,13
+['Munich'],August,12.6
+['Munich'],September,8.4
+['Munich'],October,4.8
+['Munich'],November,0.2
+['Munich'],December,-2.7
+['Johannesburg'],January,14.1
+['Johannesburg'],February,13.9
+['Johannesburg'],March,12.7
+['Johannesburg'],April,9.7
+['Johannesburg'],May,6
+['Johannesburg'],June,3.3
+['Johannesburg'],July,2.9
+['Johannesburg'],August,5.4
+['Johannesburg'],September,8.7
+['Johannesburg'],October,10.9
+['Johannesburg'],November,12.1
+['Johannesburg'],December,13.5
+['Cancun'],January,23.6
+['Cancun'],February,25
+['Cancun'],March,19.6
+['Cancun'],April,27
+['Cancun'],May,27.5
+['Cancun'],June,22.8
+['Cancun'],July,30
+['Cancun'],August,31.5
+['Cancun'],September,28
+['Cancun'],October,23.9
+['Cancun'],November,26.7
+['Cancun'],December,23.3
+['Edirne'],January,-0.8
+['Edirne'],February,-0.1
+['Edirne'],March,2.9
+['Edirne'],April,7.2
+['Edirne'],May,11.4
+['Edirne'],June,15.5
+['Edirne'],July,17.6
+['Edirne'],August,17.7
+['Edirne'],September,13.4
+['Edirne'],October,9.6
+['Edirne'],November,4.6
+['Edirne'],December,0.7
+['Suzhou'],January,-2.7
+['Suzhou'],February,-1.2
+['Suzhou'],March,3.1
+['Suzhou'],April,9.2
+['Suzhou'],May,14.8
+['Suzhou'],June,19.6
+['Suzhou'],July,23.3
+['Suzhou'],August,22.8
+['Suzhou'],September,17.6
+['Suzhou'],October,11.7
+['Suzhou'],November,4.8
+['Suzhou'],December,-1.3
+['Bucharest'],January,-5.1
+['Bucharest'],February,-4
+['Bucharest'],March,-0.1
+['Bucharest'],April,4.6
+['Bucharest'],May,9.1
+['Bucharest'],June,13.3
+['Bucharest'],July,15.1
+['Bucharest'],August,14.8
+['Bucharest'],September,10
+['Bucharest'],October,5.2
+['Bucharest'],November,0.3
+['Bucharest'],December,-4.1
+['Punta Cana'],January,16.8
+['Punta Cana'],February,17.1
+['Punta Cana'],March,18.6
+['Punta Cana'],April,19.9
+['Punta Cana'],May,19.3
+['Punta Cana'],June,19.5
+['Punta Cana'],July,16.9
+['Punta Cana'],August,18.5
+['Punta Cana'],September,17.9
+['Punta Cana'],October,20.5
+['Punta Cana'],November,19.1
+['Punta Cana'],December,20
+['Agra'],January,6.7
+['Agra'],February,9.2
+['Agra'],March,13.2
+['Agra'],April,18.7
+['Agra'],May,23.3
+['Agra'],June,25.3
+['Agra'],July,24.1
+['Agra'],August,23.2
+['Agra'],September,22
+['Agra'],October,16.4
+['Agra'],November,11
+['Agra'],December,7.3
+['Jaipur'],January,8.8
+['Jaipur'],February,12
+['Jaipur'],March,17.3
+['Jaipur'],April,22.6
+['Jaipur'],May,27
+['Jaipur'],June,27.7
+['Jaipur'],July,26.1
+['Jaipur'],August,25
+['Jaipur'],September,23.9
+['Jaipur'],October,20.1
+['Jaipur'],November,14.6
+['Jaipur'],December,10
+['Brussels'],January,1.3
+['Brussels'],February,1.5
+['Brussels'],March,3.7
+['Brussels'],April,5.3
+['Brussels'],May,9.2
+['Brussels'],June,11.4
+['Brussels'],July,13.6
+['Brussels'],August,13.6
+['Brussels'],September,11
+['Brussels'],October,7.9
+['Brussels'],November,4
+['Brussels'],December,1.4
+['Nice'],January,5.4
+['Nice'],February,6
+['Nice'],March,7.9
+['Nice'],April,9.9
+['Nice'],May,14.2
+['Nice'],June,17.5
+['Nice'],July,20.1
+['Nice'],August,20.4
+['Nice'],September,16.8
+['Nice'],October,13.4
+['Nice'],November,9
+['Nice'],December,6.1
+['Chiang Mai'],January,14.3
+['Chiang Mai'],February,15.6
+['Chiang Mai'],March,19.2
+['Chiang Mai'],April,22.4
+['Chiang Mai'],May,23.3
+['Chiang Mai'],June,23.7
+['Chiang Mai'],July,23.6
+['Chiang Mai'],August,23.4
+['Chiang Mai'],September,23
+['Chiang Mai'],October,21.8
+['Chiang Mai'],November,18.6
+['Chiang Mai'],December,15.4
+['Sharm el-Sheikh'],January,11.4
+['Sharm el-Sheikh'],February,11.9
+['Sharm el-Sheikh'],March,14.6
+['Sharm el-Sheikh'],April,18.2
+['Sharm el-Sheikh'],May,22.5
+['Sharm el-Sheikh'],June,25.6
+['Sharm el-Sheikh'],July,27.3
+['Sharm el-Sheikh'],August,27.3
+['Sharm el-Sheikh'],September,25.1
+['Sharm el-Sheikh'],October,21.8
+['Sharm el-Sheikh'],November,17.2
+['Sharm el-Sheikh'],December,13.2
+['Lisbon'],January,9.9
+['Lisbon'],February,10.1
+['Lisbon'],March,10.9
+['Lisbon'],April,11.6
+['Lisbon'],May,13.3
+['Lisbon'],June,14.8
+['Lisbon'],July,15.7
+['Lisbon'],August,16.5
+['Lisbon'],September,16
+['Lisbon'],October,14.4
+['Lisbon'],November,12.3
+['Lisbon'],December,10.8
+['East Province'],January,18.2
+['East Province'],February,18.7
+['East Province'],March,17.4
+['East Province'],April,15.1
+['East Province'],May,12.6
+['East Province'],June,10.3
+['East Province'],July,9.8
+['East Province'],August,10.9
+['East Province'],September,12.2
+['East Province'],October,13.9
+['East Province'],November,15.3
+['East Province'],December,17.1
+['Marrakech'],January,6.1
+['Marrakech'],February,8.3
+['Marrakech'],March,10.7
+['Marrakech'],April,12.2
+['Marrakech'],May,14.9
+['Marrakech'],June,17.9
+['Marrakech'],July,20.7
+['Marrakech'],August,20.8
+['Marrakech'],September,18
+['Marrakech'],October,14.8
+['Marrakech'],November,10.4
+['Marrakech'],December,7.6
+['Jakarta'],January,23.9
+['Jakarta'],February,23.6
+['Jakarta'],March,23.9
+['Jakarta'],April,24.1
+['Jakarta'],May,24.2
+['Jakarta'],June,23.8
+['Jakarta'],July,23.3
+['Jakarta'],August,22.9
+['Jakarta'],September,23.5
+['Jakarta'],October,24
+['Jakarta'],November,24.1
+['Jakarta'],December,24
+['Manama'],January,14
+['Manama'],February,15
+['Manama'],March,17.6
+['Manama'],April,21.9
+['Manama'],May,26.5
+['Manama'],June,29.2
+['Manama'],July,30.8
+['Manama'],August,30.8
+['Manama'],September,28.8
+['Manama'],October,25.9
+['Manama'],November,21.4
+['Manama'],December,16.5
+['Hanoi'],January,14.1
+['Hanoi'],February,15.4
+['Hanoi'],March,18
+['Hanoi'],April,21.6
+['Hanoi'],May,23.9
+['Hanoi'],June,25.8
+['Hanoi'],July,26.1
+['Hanoi'],August,25.7
+['Hanoi'],September,24.6
+['Hanoi'],October,22.1
+['Hanoi'],November,18.4
+['Hanoi'],December,15
+['Honolulu'],January,18.3
+['Honolulu'],February,18
+['Honolulu'],March,18.7
+['Honolulu'],April,19.5
+['Honolulu'],May,20.3
+['Honolulu'],June,21.5
+['Honolulu'],July,22.2
+['Honolulu'],August,22.4
+['Honolulu'],September,22.1
+['Honolulu'],October,21.7
+['Honolulu'],November,20.6
+['Honolulu'],December,19.2
+['Manila'],January,21.2
+['Manila'],February,21.3
+['Manila'],March,22.2
+['Manila'],April,23.8
+['Manila'],May,24.7
+['Manila'],June,24.7
+['Manila'],July,24.3
+['Manila'],August,24.2
+['Manila'],September,24.1
+['Manila'],October,23.7
+['Manila'],November,22.9
+['Manila'],December,21.9
+['Guilin'],January,5.1
+['Guilin'],February,7.1
+['Guilin'],March,10.4
+['Guilin'],April,15.7
+['Guilin'],May,19.6
+['Guilin'],June,23.3
+['Guilin'],July,24.4
+['Guilin'],August,24.3
+['Guilin'],September,21.5
+['Guilin'],October,16.9
+['Guilin'],November,11.7
+['Guilin'],December,6.7
+['Auckland'],January,15.7
+['Auckland'],February,16.1
+['Auckland'],March,14.7
+['Auckland'],April,12.7
+['Auckland'],May,11.2
+['Auckland'],June,8.9
+['Auckland'],July,7.9
+['Auckland'],August,8.3
+['Auckland'],September,9.7
+['Auckland'],October,11.3
+['Auckland'],November,12.6
+['Auckland'],December,14.6
+['Siem Reap'],January,20.7
+['Siem Reap'],February,22.5
+['Siem Reap'],March,24.5
+['Siem Reap'],April,25.4
+['Siem Reap'],May,25.4
+['Siem Reap'],June,25.2
+['Siem Reap'],July,24.8
+['Siem Reap'],August,24.6
+['Siem Reap'],September,24.5
+['Siem Reap'],October,24
+['Siem Reap'],November,22.1
+['Siem Reap'],December,20.2
+['Sousse'],January,3.4
+['Sousse'],February,5.1
+['Sousse'],March,8.8
+['Sousse'],April,13.9
+['Sousse'],May,19
+['Sousse'],June,23.3
+['Sousse'],July,26
+['Sousse'],August,25.7
+['Sousse'],September,21.5
+['Sousse'],October,16.7
+['Sousse'],November,9.3
+['Sousse'],December,4.9
+['Amman'],January,3.8
+['Amman'],February,4.4
+['Amman'],March,7.1
+['Amman'],April,10.8
+['Amman'],May,14.8
+['Amman'],June,17.9
+['Amman'],July,20.2
+['Amman'],August,20
+['Amman'],September,17.9
+['Amman'],October,14.8
+['Amman'],November,9.6
+['Amman'],December,5.6
+['Vancouver'],January,0.9
+['Vancouver'],February,0.8
+['Vancouver'],March,2.9
+['Vancouver'],April,5.4
+['Vancouver'],May,8.6
+['Vancouver'],June,11.5
+['Vancouver'],July,13.6
+['Vancouver'],August,13.5
+['Vancouver'],September,10.7
+['Vancouver'],October,6.8
+['Vancouver'],November,3.2
+['Vancouver'],December,0.7
+['Abu Dhabi'],January,14.6
+['Abu Dhabi'],February,15.7
+['Abu Dhabi'],March,17.9
+['Abu Dhabi'],April,21.2
+['Abu Dhabi'],May,24.9
+['Abu Dhabi'],June,27.6
+['Abu Dhabi'],July,30.1
+['Abu Dhabi'],August,30.6
+['Abu Dhabi'],September,27.9
+['Abu Dhabi'],October,24.4
+['Abu Dhabi'],November,20.4
+['Abu Dhabi'],December,16.7
+['Kiev'],January,-5.1
+['Kiev'],February,-5.1
+['Kiev'],March,-1.2
+['Kiev'],April,5
+['Kiev'],May,10
+['Kiev'],June,13.6
+['Kiev'],July,15.7
+['Kiev'],August,14.8
+['Kiev'],September,9.5
+['Kiev'],October,4.4
+['Kiev'],November,-0.8
+['Kiev'],December,-4.8
+['Doha'],January,13.8
+['Doha'],February,14.8
+['Doha'],March,17.4
+['Doha'],April,21.9
+['Doha'],May,26.8
+['Doha'],June,29
+['Doha'],July,30.8
+['Doha'],August,30.6
+['Doha'],September,28.5
+['Doha'],October,25.4
+['Doha'],November,21
+['Doha'],December,16.4
+['Florence'],January,2.3
+['Florence'],February,2.6
+['Florence'],March,5.5
+['Florence'],April,8.1
+['Florence'],May,12.6
+['Florence'],June,16.4
+['Florence'],July,18.6
+['Florence'],August,18.8
+['Florence'],September,14.8
+['Florence'],October,11.3
+['Florence'],November,6.5
+['Florence'],December,3
+['Rio de Janeiro'],January,23.8
+['Rio de Janeiro'],February,24
+['Rio de Janeiro'],March,23.3
+['Rio de Janeiro'],April,22.1
+['Rio de Janeiro'],May,19.3
+['Rio de Janeiro'],June,18
+['Rio de Janeiro'],July,17.2
+['Rio de Janeiro'],August,17.8
+['Rio de Janeiro'],September,18.8
+['Rio de Janeiro'],October,20.5
+['Rio de Janeiro'],November,21.6
+['Rio de Janeiro'],December,22.9
+['Melbourne'],January,13.3
+['Melbourne'],February,13.7
+['Melbourne'],March,12
+['Melbourne'],April,9.3
+['Melbourne'],May,7.9
+['Melbourne'],June,6.1
+['Melbourne'],July,5.3
+['Melbourne'],August,5.4
+['Melbourne'],September,6.5
+['Melbourne'],October,7.9
+['Melbourne'],November,9.7
+['Melbourne'],December,11.5
+['Washington D.C.'],January,-0.5
+['Washington D.C.'],February,-0.5
+['Washington D.C.'],March,3
+['Washington D.C.'],April,8.3
+['Washington D.C.'],May,13.4
+['Washington D.C.'],June,18.7
+['Washington D.C.'],July,21.3
+['Washington D.C.'],August,20.8
+['Washington D.C.'],September,17.2
+['Washington D.C.'],October,10.8
+['Washington D.C.'],November,5.4
+['Washington D.C.'],December,0.8
+['Riyadh'],January,7
+['Riyadh'],February,10
+['Riyadh'],March,16
+['Riyadh'],April,20
+['Riyadh'],May,26
+['Riyadh'],June,28
+['Riyadh'],July,29
+['Riyadh'],August,30
+['Riyadh'],September,26
+['Riyadh'],October,21
+['Riyadh'],November,15.3
+['Riyadh'],December,9
+['Christchurch'],January,11.7
+['Christchurch'],February,11.5
+['Christchurch'],March,9.5
+['Christchurch'],April,6.5
+['Christchurch'],May,4.2
+['Christchurch'],June,1.4
+['Christchurch'],July,1
+['Christchurch'],August,2.2
+['Christchurch'],September,4.3
+['Christchurch'],October,6.2
+['Christchurch'],November,7.6
+['Christchurch'],December,10.2
+['Frankfurt'],January,-2.8
+['Frankfurt'],February,-3.2
+['Frankfurt'],March,1.3
+['Frankfurt'],April,1.6
+['Frankfurt'],May,6.6
+['Frankfurt'],June,8.9
+['Frankfurt'],July,11.5
+['Frankfurt'],August,11.2
+['Frankfurt'],September,7.8
+['Frankfurt'],October,3.9
+['Frankfurt'],November,0.4
+['Frankfurt'],December,-2.3
+['Baku'],January,3
+['Baku'],February,3.2
+['Baku'],March,5.2
+['Baku'],April,9.1
+['Baku'],May,12.2
+['Baku'],June,15.6
+['Baku'],July,21.7
+['Baku'],August,19.5
+['Baku'],September,20
+['Baku'],October,12.4
+['Baku'],November,9
+['Baku'],December,5.3
+['Sao Paulo'],January,19.9
+['Sao Paulo'],February,20
+['Sao Paulo'],March,19.5
+['Sao Paulo'],April,18
+['Sao Paulo'],May,15.2
+['Sao Paulo'],June,14.1
+['Sao Paulo'],July,13
+['Sao Paulo'],August,13.7
+['Sao Paulo'],September,14.7
+['Sao Paulo'],October,16.5
+['Sao Paulo'],November,17.4
+['Sao Paulo'],December,18.8
+['Harare'],January,16.8
+['Harare'],February,16.4
+['Harare'],March,15.7
+['Harare'],April,13.4
+['Harare'],May,10.7
+['Harare'],June,8.7
+['Harare'],July,8
+['Harare'],August,9.5
+['Harare'],September,12.5
+['Harare'],October,14.8
+['Harare'],November,16.2
+['Harare'],December,16.5
+['Kolkata'],January,10
+['Kolkata'],February,12
+['Kolkata'],March,16
+['Kolkata'],April,18.1
+['Kolkata'],May,16.3
+['Kolkata'],June,20.1
+['Kolkata'],July,18.8
+['Kolkata'],August,20.4
+['Kolkata'],September,18.4
+['Kolkata'],October,18.8
+['Kolkata'],November,14.5
+['Kolkata'],December,11.5
+['Nanjing'],January,-1.4
+['Nanjing'],February,-0.1
+['Nanjing'],March,3.7
+['Nanjing'],April,9
+['Nanjing'],May,14.9
+['Nanjing'],June,20
+['Nanjing'],July,23.9
+['Nanjing'],August,23.3
+['Nanjing'],September,18.3
+['Nanjing'],October,12.8
+['Nanjing'],November,6.3
+['Nanjing'],December,0.1
