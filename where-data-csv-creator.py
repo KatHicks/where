@@ -1,4 +1,6 @@
-import requests, csv, unicodecsv
+import requests, csv, unicodecsv, os
+
+os.remove('city_weather.csv')
 		
 headers = ['city', 'month', 'avg_min_temperature']
 with open('city_weather.csv', mode='w') as csvfile:
@@ -30,7 +32,6 @@ with open('top-100-cities.csv') as f:
 	reader = csv.reader(f)
 	cities = list(reader)
 
-#cities = ["Paris", "London", "New York", "Hong Kong", "Singapore", "Bangkok", "Macau", "Kuala Lumpur", "Shenzhen", "Antalya", "Paris", "Istanbul", "Rome", "Dubai"]
 
 for city in cities:
 	write_csv(city)
