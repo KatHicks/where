@@ -6,7 +6,7 @@ with open('city_weather.csv', mode='w') as csvfile:
 
 def write_csv(city):	
 	weather_endpoint = "http://api.worldweatheronline.com/premium/v1/weather.ashx"
-	payload = {"key": "5d1f90a4fc1d448980f202203161003", "q": city, "format": "json","mca": "yes" }
+	payload = {"key": "5d1f90a4fc1d448980f202203161003", "q": city, "format": "json","mca": "yes"}
 
 	response = requests.get(weather_endpoint, params=payload)
 	data = response.json()
