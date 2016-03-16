@@ -1,6 +1,5 @@
 import requests, csv, unicodecsv, os, sys, operator
 
-
 #list of dictionaries in the format:
 #{'Avg_Min_Flight_Price_GBP': '492', 'City': 'Washington D.C.', 'Month': 'September', 'Avg_Min_Temp_C': '17.2', 'Country': 'United States of America'}
 
