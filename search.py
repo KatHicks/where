@@ -20,16 +20,7 @@ def query():
 	return render_template("result.html")
 
 #image api query
-def getty(city):
-	endpoint = "https://api.gettyimages.com/v3/search/images"
-	payload = {"phrase": city, "rating": "pg", "api_key": "dc6zaTOxFJmzC"}
-	response = requests.get(endpoint, params=payload)
+#city_img = "https://source.unsplash.com/category/buildings/?" + "london"
+#note to render into html page need to be arguments of a new function and added into render_template
 
-	data = response.json()
-
-	result = data['data'][0]['images']['fixed_height']['url']
-
-	return result
-
-#running the app
 app.run(debug=True)
