@@ -1,0 +1,1033 @@
+City,Country,Month,Avg_Min_Temp_C,Avg_Min_Flight_Price_GBP
+Abu Dhabi,United Arab Emirates,April,21.2,343
+Abu Dhabi,United Arab Emirates,August,30.6,343
+Abu Dhabi,United Arab Emirates,December,16.7,343
+Abu Dhabi,United Arab Emirates,February,15.7,343
+Abu Dhabi,United Arab Emirates,January,14.6,343
+Abu Dhabi,United Arab Emirates,July,30.1,343
+Abu Dhabi,United Arab Emirates,June,27.6,343
+Abu Dhabi,United Arab Emirates,March,17.9,343
+Abu Dhabi,United Arab Emirates,May,24.9,343
+Abu Dhabi,United Arab Emirates,November,20.4,343
+Abu Dhabi,United Arab Emirates,October,24.4,343
+Abu Dhabi,United Arab Emirates,September,27.9,343
+Amman,Jordan,April,10.8,340
+Amman,Jordan,August,20,340
+Amman,Jordan,December,5.6,340
+Amman,Jordan,February,4.4,340
+Amman,Jordan,January,3.8,340
+Amman,Jordan,July,20.2,340
+Amman,Jordan,June,17.9,340
+Amman,Jordan,March,7.1,340
+Amman,Jordan,May,14.8,340
+Amman,Jordan,November,9.6,340
+Amman,Jordan,October,14.8,340
+Amman,Jordan,September,17.9,340
+Amsterdam,Netherlands,April,6.5,77
+Amsterdam,Netherlands,August,12,77
+Amsterdam,Netherlands,December,1,77
+Amsterdam,Netherlands,February,2.5,77
+Amsterdam,Netherlands,January,3.4,77
+Amsterdam,Netherlands,July,12,77
+Amsterdam,Netherlands,June,11,77
+Amsterdam,Netherlands,March,5.5,77
+Amsterdam,Netherlands,May,10.7,77
+Amsterdam,Netherlands,November,5.6,77
+Amsterdam,Netherlands,October,9.3,77
+Amsterdam,Netherlands,September,10,77
+Antalya,Turkey,April,10.7,107
+Antalya,Turkey,August,22.9,107
+Antalya,Turkey,December,6.7,107
+Antalya,Turkey,February,5.5,107
+Antalya,Turkey,January,4.9,107
+Antalya,Turkey,July,22.8,107
+Antalya,Turkey,June,19.6,107
+Antalya,Turkey,March,7.6,107
+Antalya,Turkey,May,15.1,107
+Antalya,Turkey,November,10,107
+Antalya,Turkey,October,15.2,107
+Antalya,Turkey,September,19.1,107
+Auckland,New Zealand,April,12.7,767
+Auckland,New Zealand,August,8.3,767
+Auckland,New Zealand,December,14.6,767
+Auckland,New Zealand,February,16.1,767
+Auckland,New Zealand,January,15.7,767
+Auckland,New Zealand,July,7.9,767
+Auckland,New Zealand,June,8.9,767
+Auckland,New Zealand,March,14.7,767
+Auckland,New Zealand,May,11.2,767
+Auckland,New Zealand,November,12.6,767
+Auckland,New Zealand,October,11.3,767
+Auckland,New Zealand,September,9.7,767
+Baku,Azerbaijan,April,9.1,272
+Baku,Azerbaijan,August,19.5,272
+Baku,Azerbaijan,December,5.3,272
+Baku,Azerbaijan,February,3.2,272
+Baku,Azerbaijan,January,3,272
+Baku,Azerbaijan,July,21.7,272
+Baku,Azerbaijan,June,15.6,272
+Baku,Azerbaijan,March,5.2,272
+Baku,Azerbaijan,May,12.2,272
+Baku,Azerbaijan,November,9,272
+Baku,Azerbaijan,October,12.4,272
+Baku,Azerbaijan,September,20,272
+Bangkok,Thailand,April,26.7,391
+Bangkok,Thailand,August,26,391
+Bangkok,Thailand,December,22,391
+Bangkok,Thailand,February,24.1,391
+Bangkok,Thailand,January,22.8,391
+Bangkok,Thailand,July,26.2,391
+Bangkok,Thailand,June,26.4,391
+Bangkok,Thailand,March,25.7,391
+Bangkok,Thailand,May,26.5,391
+Bangkok,Thailand,November,23.5,391
+Bangkok,Thailand,October,24.7,391
+Bangkok,Thailand,September,25.2,391
+Barcelona,Spain,April,9.7,97
+Barcelona,Spain,August,20.6,97
+Barcelona,Spain,December,6.1,97
+Barcelona,Spain,February,6,97
+Barcelona,Spain,January,5.3,97
+Barcelona,Spain,July,19.9,97
+Barcelona,Spain,June,17.2,97
+Barcelona,Spain,March,7.9,97
+Barcelona,Spain,May,13.4,97
+Barcelona,Spain,November,8.8,97
+Barcelona,Spain,October,13.8,97
+Barcelona,Spain,September,17.4,97
+Beijing,China,April,7.8,430
+Beijing,China,August,20.7,430
+Beijing,China,December,-6.3,430
+Beijing,China,February,-5.3,430
+Beijing,China,January,-8.5,430
+Beijing,China,July,21.8,430
+Beijing,China,June,19,430
+Beijing,China,March,0.5,430
+Beijing,China,May,13.6,430
+Beijing,China,November,-0.8,430
+Beijing,China,October,7.3,430
+Beijing,China,September,14.8,430
+Berlin,Germany,April,4.4,99
+Berlin,Germany,August,14,99
+Berlin,Germany,December,0.1,99
+Berlin,Germany,February,-2.2,99
+Berlin,Germany,January,-1,99
+Berlin,Germany,July,14.3,99
+Berlin,Germany,June,11.9,99
+Berlin,Germany,March,1.4,99
+Berlin,Germany,May,9.2,99
+Berlin,Germany,November,2.7,99
+Berlin,Germany,October,7.4,99
+Berlin,Germany,September,10.8,99
+Brussels,Belgium,April,5.3,121
+Brussels,Belgium,August,13.6,121
+Brussels,Belgium,December,1.4,121
+Brussels,Belgium,February,1.5,121
+Brussels,Belgium,January,1.3,121
+Brussels,Belgium,July,13.6,121
+Brussels,Belgium,June,11.4,121
+Brussels,Belgium,March,3.7,121
+Brussels,Belgium,May,9.2,121
+Brussels,Belgium,November,4,121
+Brussels,Belgium,October,7.9,121
+Brussels,Belgium,September,11,121
+Bucharest,Romania,April,4.6,134
+Bucharest,Romania,August,14.8,134
+Bucharest,Romania,December,-4.1,134
+Bucharest,Romania,February,-4,134
+Bucharest,Romania,January,-5.1,134
+Bucharest,Romania,July,15.1,134
+Bucharest,Romania,June,13.3,134
+Bucharest,Romania,March,-0.1,134
+Bucharest,Romania,May,9.1,134
+Bucharest,Romania,November,0.3,134
+Bucharest,Romania,October,5.2,134
+Bucharest,Romania,September,10,134
+Budapest,Hungary,April,6.8,131
+Budapest,Hungary,August,16.2,131
+Budapest,Hungary,December,-2.1,131
+Budapest,Hungary,February,-1.6,131
+Budapest,Hungary,January,-2.8,131
+Budapest,Hungary,July,16.4,131
+Budapest,Hungary,June,14.5,131
+Budapest,Hungary,March,2.1,131
+Budapest,Hungary,May,11.4,131
+Budapest,Hungary,November,2.3,131
+Budapest,Hungary,October,6.9,131
+Budapest,Hungary,September,11.5,131
+Buenos Aires,Argentina,April,14.8,547
+Buenos Aires,Argentina,August,9.4,547
+Buenos Aires,Argentina,December,19,547
+Buenos Aires,Argentina,February,19.8,547
+Buenos Aires,Argentina,January,20.7,547
+Buenos Aires,Argentina,July,8.1,547
+Buenos Aires,Argentina,June,9,547
+Buenos Aires,Argentina,March,18.6,547
+Buenos Aires,Argentina,May,11.6,547
+Buenos Aires,Argentina,November,16.5,547
+Buenos Aires,Argentina,October,14.3,547
+Buenos Aires,Argentina,September,11,547
+Cairo,Egypt,April,14.2,281
+Cairo,Egypt,August,22.9,281
+Cairo,Egypt,December,9.7,281
+Cairo,Egypt,February,8.9,281
+Cairo,Egypt,January,8.3,281
+Cairo,Egypt,July,22.6,281
+Cairo,Egypt,June,20.4,281
+Cairo,Egypt,March,11.3,281
+Cairo,Egypt,May,17.4,281
+Cairo,Egypt,November,13.7,281
+Cairo,Egypt,October,18,281
+Cairo,Egypt,September,21,281
+Cancun,Mexico,April,27,472
+Cancun,Mexico,August,31.5,472
+Cancun,Mexico,December,23.3,472
+Cancun,Mexico,February,25,472
+Cancun,Mexico,January,23.6,472
+Cancun,Mexico,July,30,472
+Cancun,Mexico,June,22.8,472
+Cancun,Mexico,March,19.6,472
+Cancun,Mexico,May,27.5,472
+Cancun,Mexico,November,26.7,472
+Cancun,Mexico,October,23.9,472
+Cancun,Mexico,September,28,472
+Chennai,India,April,26,393
+Chennai,India,August,25.5,393
+Chennai,India,December,21.3,393
+Chennai,India,February,21.7,393
+Chennai,India,January,20.7,393
+Chennai,India,July,26,393
+Chennai,India,June,26.9,393
+Chennai,India,March,23.6,393
+Chennai,India,May,27.4,393
+Chennai,India,November,22.9,393
+Chennai,India,October,24.3,393
+Chennai,India,September,25.2,393
+Chiang Mai,Thailand,April,22.4,501
+Chiang Mai,Thailand,August,23.4,501
+Chiang Mai,Thailand,December,15.4,501
+Chiang Mai,Thailand,February,15.6,501
+Chiang Mai,Thailand,January,14.3,501
+Chiang Mai,Thailand,July,23.6,501
+Chiang Mai,Thailand,June,23.7,501
+Chiang Mai,Thailand,March,19.2,501
+Chiang Mai,Thailand,May,23.3,501
+Chiang Mai,Thailand,November,18.6,501
+Chiang Mai,Thailand,October,21.8,501
+Chiang Mai,Thailand,September,23,501
+Christchurch,New Zealand,April,6.5,984
+Christchurch,New Zealand,August,2.2,984
+Christchurch,New Zealand,December,10.2,984
+Christchurch,New Zealand,February,11.5,984
+Christchurch,New Zealand,January,11.7,984
+Christchurch,New Zealand,July,1,984
+Christchurch,New Zealand,June,1.4,984
+Christchurch,New Zealand,March,9.5,984
+Christchurch,New Zealand,May,4.2,984
+Christchurch,New Zealand,November,7.6,984
+Christchurch,New Zealand,October,6.2,984
+Christchurch,New Zealand,September,4.3,984
+Delhi,India,April,21,410
+Delhi,India,August,26.6,410
+Delhi,India,December,8.3,410
+Delhi,India,February,10.6,410
+Delhi,India,January,7.5,410
+Delhi,India,July,27.3,410
+Delhi,India,June,27.5,410
+Delhi,India,March,15.5,410
+Delhi,India,May,25.6,410
+Delhi,India,November,12.8,410
+Delhi,India,October,19.1,410
+Delhi,India,September,24.7,410
+Denpasar,Indonesia,April,24.7,560
+Denpasar,Indonesia,August,23.3,560
+Denpasar,Indonesia,December,25,560
+Denpasar,Indonesia,February,24.9,560
+Denpasar,Indonesia,January,24.9,560
+Denpasar,Indonesia,July,23.6,560
+Denpasar,Indonesia,June,24,560
+Denpasar,Indonesia,March,24.8,560
+Denpasar,Indonesia,May,24.2,560
+Denpasar,Indonesia,November,25,560
+Denpasar,Indonesia,October,24.4,560
+Denpasar,Indonesia,September,23.5,560
+Doha,Qatar,April,21.9,372
+Doha,Qatar,August,30.6,372
+Doha,Qatar,December,16.4,372
+Doha,Qatar,February,14.8,372
+Doha,Qatar,January,13.8,372
+Doha,Qatar,July,30.8,372
+Doha,Qatar,June,29,372
+Doha,Qatar,March,17.4,372
+Doha,Qatar,May,26.8,372
+Doha,Qatar,November,21,372
+Doha,Qatar,October,25.4,372
+Doha,Qatar,September,28.5,372
+Dubai,United Arab Emirates,April,21.2,302
+Dubai,United Arab Emirates,August,30.6,302
+Dubai,United Arab Emirates,December,16.7,302
+Dubai,United Arab Emirates,February,15.7,302
+Dubai,United Arab Emirates,January,14.6,302
+Dubai,United Arab Emirates,July,30.1,302
+Dubai,United Arab Emirates,June,27.6,302
+Dubai,United Arab Emirates,March,17.9,302
+Dubai,United Arab Emirates,May,24.9,302
+Dubai,United Arab Emirates,November,20.4,302
+Dubai,United Arab Emirates,October,24.4,302
+Dubai,United Arab Emirates,September,27.9,302
+Dublin,Ireland,April,4.1,80
+Dublin,Ireland,August,11.1,80
+Dublin,Ireland,December,2.4,80
+Dublin,Ireland,February,2.3,80
+Dublin,Ireland,January,2.3,80
+Dublin,Ireland,July,11.2,80
+Dublin,Ireland,June,9.2,80
+Dublin,Ireland,March,3.2,80
+Dublin,Ireland,May,6.6,80
+Dublin,Ireland,November,4.3,80
+Dublin,Ireland,October,6.9,80
+Dublin,Ireland,September,9.3,80
+Florence,Italy,April,8.1,110
+Florence,Italy,August,18.8,110
+Florence,Italy,December,3,110
+Florence,Italy,February,2.6,110
+Florence,Italy,January,2.3,110
+Florence,Italy,July,18.6,110
+Florence,Italy,June,16.4,110
+Florence,Italy,March,5.5,110
+Florence,Italy,May,12.6,110
+Florence,Italy,November,6.5,110
+Florence,Italy,October,11.3,110
+Florence,Italy,September,14.8,110
+Frankfurt,Germany,April,1.6,110
+Frankfurt,Germany,August,11.2,110
+Frankfurt,Germany,December,-2.3,110
+Frankfurt,Germany,February,-3.2,110
+Frankfurt,Germany,January,-2.8,110
+Frankfurt,Germany,July,11.5,110
+Frankfurt,Germany,June,8.9,110
+Frankfurt,Germany,March,1.3,110
+Frankfurt,Germany,May,6.6,110
+Frankfurt,Germany,November,0.4,110
+Frankfurt,Germany,October,3.9,110
+Frankfurt,Germany,September,7.8,110
+Guangzhou,China,April,19.9,440
+Guangzhou,China,August,25.7,440
+Guangzhou,China,December,12.3,440
+Guangzhou,China,February,12.3,440
+Guangzhou,China,January,10.9,440
+Guangzhou,China,July,25.8,440
+Guangzhou,China,June,25.1,440
+Guangzhou,China,March,15.4,440
+Guangzhou,China,May,23,440
+Guangzhou,China,November,16.5,440
+Guangzhou,China,October,21.2,440
+Guangzhou,China,September,24.4,440
+Guilin,China,April,15.7,685
+Guilin,China,August,24.3,685
+Guilin,China,December,6.7,685
+Guilin,China,February,7.1,685
+Guilin,China,January,5.1,685
+Guilin,China,July,24.4,685
+Guilin,China,June,23.3,685
+Guilin,China,March,10.4,685
+Guilin,China,May,19.6,685
+Guilin,China,November,11.7,685
+Guilin,China,October,16.9,685
+Guilin,China,September,21.5,685
+Hangzhou,China,April,11.8,496
+Hangzhou,China,August,24.6,496
+Hangzhou,China,December,2.9,496
+Hangzhou,China,February,2.6,496
+Hangzhou,China,January,1.1,496
+Hangzhou,China,July,25,496
+Hangzhou,China,June,21.2,496
+Hangzhou,China,March,6.4,496
+Hangzhou,China,May,16.9,496
+Hangzhou,China,November,8.4,496
+Hangzhou,China,October,14.5,496
+Hangzhou,China,September,20.4,496
+Hanoi,Vietnam,April,21.6,469
+Hanoi,Vietnam,August,25.7,469
+Hanoi,Vietnam,December,15,469
+Hanoi,Vietnam,February,15.4,469
+Hanoi,Vietnam,January,14.1,469
+Hanoi,Vietnam,July,26.1,469
+Hanoi,Vietnam,June,25.8,469
+Hanoi,Vietnam,March,18,469
+Hanoi,Vietnam,May,23.9,469
+Hanoi,Vietnam,November,18.4,469
+Hanoi,Vietnam,October,22.1,469
+Hanoi,Vietnam,September,24.6,469
+Harare,Zimbabwe,April,13.4,498
+Harare,Zimbabwe,August,9.5,498
+Harare,Zimbabwe,December,16.5,498
+Harare,Zimbabwe,February,16.4,498
+Harare,Zimbabwe,January,16.8,498
+Harare,Zimbabwe,July,8,498
+Harare,Zimbabwe,June,8.7,498
+Harare,Zimbabwe,March,15.7,498
+Harare,Zimbabwe,May,10.7,498
+Harare,Zimbabwe,November,16.2,498
+Harare,Zimbabwe,October,14.8,498
+Harare,Zimbabwe,September,12.5,498
+Ho Chi Minh City,Vietnam,April,25.5,433
+Ho Chi Minh City,Vietnam,August,24.2,433
+Ho Chi Minh City,Vietnam,December,21.6,433
+Ho Chi Minh City,Vietnam,February,22.4,433
+Ho Chi Minh City,Vietnam,January,21.6,433
+Ho Chi Minh City,Vietnam,July,24.1,433
+Ho Chi Minh City,Vietnam,June,24.5,433
+Ho Chi Minh City,Vietnam,March,24.1,433
+Ho Chi Minh City,Vietnam,May,25.2,433
+Ho Chi Minh City,Vietnam,November,22.8,433
+Ho Chi Minh City,Vietnam,October,23.5,433
+Ho Chi Minh City,Vietnam,September,24.1,433
+Hong Kong,Hong Kong,April,20.4,454
+Hong Kong,Hong Kong,August,26,454
+Hong Kong,Hong Kong,December,14.2,454
+Hong Kong,Hong Kong,February,13.4,454
+Hong Kong,Hong Kong,January,12.2,454
+Hong Kong,Hong Kong,July,26.2,454
+Hong Kong,Hong Kong,June,25.6,454
+Hong Kong,Hong Kong,March,16.2,454
+Hong Kong,Hong Kong,May,23.6,454
+Hong Kong,Hong Kong,November,18.4,454
+Hong Kong,Hong Kong,October,22.5,454
+Hong Kong,Hong Kong,September,25,454
+Honolulu,United States of America,April,19.5,933
+Honolulu,United States of America,August,22.4,933
+Honolulu,United States of America,December,19.2,933
+Honolulu,United States of America,February,18,933
+Honolulu,United States of America,January,18.3,933
+Honolulu,United States of America,July,22.2,933
+Honolulu,United States of America,June,21.5,933
+Honolulu,United States of America,March,18.7,933
+Honolulu,United States of America,May,20.3,933
+Honolulu,United States of America,November,20.6,933
+Honolulu,United States of America,October,21.7,933
+Honolulu,United States of America,September,22.1,933
+Istanbul,Turkey,April,8.1,79
+Istanbul,Turkey,August,21.1,79
+Istanbul,Turkey,December,4.9,79
+Istanbul,Turkey,February,2.7,79
+Istanbul,Turkey,January,3,79
+Istanbul,Turkey,July,20.7,79
+Istanbul,Turkey,June,17.8,79
+Istanbul,Turkey,March,4.6,79
+Istanbul,Turkey,May,13,79
+Istanbul,Turkey,November,8.3,79
+Istanbul,Turkey,October,13.4,79
+Istanbul,Turkey,September,17,79
+Jaipur,India,April,22.6,480
+Jaipur,India,August,25,480
+Jaipur,India,December,10,480
+Jaipur,India,February,12,480
+Jaipur,India,January,8.8,480
+Jaipur,India,July,26.1,480
+Jaipur,India,June,27.7,480
+Jaipur,India,March,17.3,480
+Jaipur,India,May,27,480
+Jaipur,India,November,14.6,480
+Jaipur,India,October,20.1,480
+Jaipur,India,September,23.9,480
+Jakarta,Indonesia,April,24.1,501
+Jakarta,Indonesia,August,22.9,501
+Jakarta,Indonesia,December,24,501
+Jakarta,Indonesia,February,23.6,501
+Jakarta,Indonesia,January,23.9,501
+Jakarta,Indonesia,July,23.3,501
+Jakarta,Indonesia,June,23.8,501
+Jakarta,Indonesia,March,23.9,501
+Jakarta,Indonesia,May,24.2,501
+Jakarta,Indonesia,November,24.1,501
+Jakarta,Indonesia,October,24,501
+Jakarta,Indonesia,September,23.5,501
+Johannesburg,South Africa,April,9.7,457
+Johannesburg,South Africa,August,5.4,457
+Johannesburg,South Africa,December,13.5,457
+Johannesburg,South Africa,February,13.9,457
+Johannesburg,South Africa,January,14.1,457
+Johannesburg,South Africa,July,2.9,457
+Johannesburg,South Africa,June,3.3,457
+Johannesburg,South Africa,March,12.7,457
+Johannesburg,South Africa,May,6,457
+Johannesburg,South Africa,November,12.1,457
+Johannesburg,South Africa,October,10.9,457
+Johannesburg,South Africa,September,8.7,457
+Kiev,Ukraine,April,5,113
+Kiev,Ukraine,August,14.8,113
+Kiev,Ukraine,December,-4.8,113
+Kiev,Ukraine,February,-5.1,113
+Kiev,Ukraine,January,-5.1,113
+Kiev,Ukraine,July,15.7,113
+Kiev,Ukraine,June,13.6,113
+Kiev,Ukraine,March,-1.2,113
+Kiev,Ukraine,May,10,113
+Kiev,Ukraine,November,-0.8,113
+Kiev,Ukraine,October,4.4,113
+Kiev,Ukraine,September,9.5,113
+Kolkata,India,April,18.1,429
+Kolkata,India,August,20.4,429
+Kolkata,India,December,11.5,429
+Kolkata,India,February,12,429
+Kolkata,India,January,10,429
+Kolkata,India,July,18.8,429
+Kolkata,India,June,20.1,429
+Kolkata,India,March,16,429
+Kolkata,India,May,16.3,429
+Kolkata,India,November,14.5,429
+Kolkata,India,October,18.8,429
+Kolkata,India,September,18.4,429
+Kuala Lumpur,Malaysia,April,24.2,468
+Kuala Lumpur,Malaysia,August,23.8,468
+Kuala Lumpur,Malaysia,December,23.5,468
+Kuala Lumpur,Malaysia,February,23.5,468
+Kuala Lumpur,Malaysia,January,23.3,468
+Kuala Lumpur,Malaysia,July,23.8,468
+Kuala Lumpur,Malaysia,June,24.2,468
+Kuala Lumpur,Malaysia,March,24,468
+Kuala Lumpur,Malaysia,May,24.5,468
+Kuala Lumpur,Malaysia,November,23.6,468
+Kuala Lumpur,Malaysia,October,23.7,468
+Kuala Lumpur,Malaysia,September,23.6,468
+Las Vegas,United States of America,April,12.2,622
+Las Vegas,United States of America,August,25.5,622
+Las Vegas,United States of America,December,2.4,622
+Las Vegas,United States of America,February,4.9,622
+Las Vegas,United States of America,January,2.8,622
+Las Vegas,United States of America,July,26.1,622
+Las Vegas,United States of America,June,22.3,622
+Las Vegas,United States of America,March,8.5,622
+Las Vegas,United States of America,May,17.4,622
+Las Vegas,United States of America,November,6.9,622
+Las Vegas,United States of America,October,13.9,622
+Las Vegas,United States of America,September,20.7,622
+Lima,Peru,April,18.4,477
+Lima,Peru,August,15.3,477
+Lima,Peru,December,18.5,477
+Lima,Peru,February,20.5,477
+Lima,Peru,January,20,477
+Lima,Peru,July,15.6,477
+Lima,Peru,June,16,477
+Lima,Peru,March,20.1,477
+Lima,Peru,May,16.8,477
+Lima,Peru,November,16.9,477
+Lima,Peru,October,15.7,477
+Lima,Peru,September,15.2,477
+Lisbon,Portugal,April,11.6,99
+Lisbon,Portugal,August,16.5,99
+Lisbon,Portugal,December,10.8,99
+Lisbon,Portugal,February,10.1,99
+Lisbon,Portugal,January,9.9,99
+Lisbon,Portugal,July,15.7,99
+Lisbon,Portugal,June,14.8,99
+Lisbon,Portugal,March,10.9,99
+Lisbon,Portugal,May,13.3,99
+Lisbon,Portugal,November,12.3,99
+Lisbon,Portugal,October,14.4,99
+Lisbon,Portugal,September,16,99
+Los Angeles,United States of America,April,11.8,537
+Los Angeles,United States of America,August,17.9,537
+Los Angeles,United States of America,December,8.6,537
+Los Angeles,United States of America,February,9.4,537
+Los Angeles,United States of America,January,8.6,537
+Los Angeles,United States of America,July,17.5,537
+Los Angeles,United States of America,June,15.7,537
+Los Angeles,United States of America,March,10.5,537
+Los Angeles,United States of America,May,13.8,537
+Los Angeles,United States of America,November,11.3,537
+Los Angeles,United States of America,October,14.7,537
+Los Angeles,United States of America,September,17.1,537
+Madrid,Spain,April,6.9,71
+Madrid,Spain,August,18.2,71
+Madrid,Spain,December,2.7,71
+Madrid,Spain,February,2.8,71
+Madrid,Spain,January,1.8,71
+Madrid,Spain,July,18.2,71
+Madrid,Spain,June,15.6,71
+Madrid,Spain,March,5.3,71
+Madrid,Spain,May,10.7,71
+Madrid,Spain,November,5,71
+Madrid,Spain,October,10.1,71
+Madrid,Spain,September,14.6,71
+Manila,Philippines,April,23.8,446
+Manila,Philippines,August,24.2,446
+Manila,Philippines,December,21.9,446
+Manila,Philippines,February,21.3,446
+Manila,Philippines,January,21.2,446
+Manila,Philippines,July,24.3,446
+Manila,Philippines,June,24.7,446
+Manila,Philippines,March,22.2,446
+Manila,Philippines,May,24.7,446
+Manila,Philippines,November,22.9,446
+Manila,Philippines,October,23.7,446
+Manila,Philippines,September,24.1,446
+Marrakech,Morocco,April,12.2,145
+Marrakech,Morocco,August,20.8,145
+Marrakech,Morocco,December,7.6,145
+Marrakech,Morocco,February,8.3,145
+Marrakech,Morocco,January,6.1,145
+Marrakech,Morocco,July,20.7,145
+Marrakech,Morocco,June,17.9,145
+Marrakech,Morocco,March,10.7,145
+Marrakech,Morocco,May,14.9,145
+Marrakech,Morocco,November,10.4,145
+Marrakech,Morocco,October,14.8,145
+Marrakech,Morocco,September,18,145
+Melbourne,Australia,April,9.3,681
+Melbourne,Australia,August,5.4,681
+Melbourne,Australia,December,11.5,681
+Melbourne,Australia,February,13.7,681
+Melbourne,Australia,January,13.3,681
+Melbourne,Australia,July,5.3,681
+Melbourne,Australia,June,6.1,681
+Melbourne,Australia,March,12,681
+Melbourne,Australia,May,7.9,681
+Melbourne,Australia,November,9.7,681
+Melbourne,Australia,October,7.9,681
+Melbourne,Australia,September,6.5,681
+Mexico City,Mexico,April,11.7,696
+Mexico City,Mexico,August,13.1,696
+Mexico City,Mexico,December,6.4,696
+Mexico City,Mexico,February,7.5,696
+Mexico City,Mexico,January,6.1,696
+Mexico City,Mexico,July,13.1,696
+Mexico City,Mexico,June,13.6,696
+Mexico City,Mexico,March,9.3,696
+Mexico City,Mexico,May,12.6,696
+Mexico City,Mexico,November,8.2,696
+Mexico City,Mexico,October,11.1,696
+Mexico City,Mexico,September,13,696
+Miami,United States of America,April,19.8,492
+Miami,United States of America,August,24.9,492
+Miami,United States of America,December,16.9,492
+Miami,United States of America,February,16.3,492
+Miami,United States of America,January,15.8,492
+Miami,United States of America,July,24.8,492
+Miami,United States of America,June,24,492
+Miami,United States of America,March,18,492
+Miami,United States of America,May,22.4,492
+Miami,United States of America,November,19.6,492
+Miami,United States of America,October,22.8,492
+Miami,United States of America,September,24.5,492
+Milan,Italy,April,7.7,94
+Milan,Italy,August,18.7,94
+Milan,Italy,December,0.5,94
+Milan,Italy,February,0.5,94
+Milan,Italy,January,-0.5,94
+Milan,Italy,July,18.9,94
+Milan,Italy,June,16.9,94
+Milan,Italy,March,4.4,94
+Milan,Italy,May,13.2,94
+Milan,Italy,November,4.7,94
+Milan,Italy,October,10.3,94
+Milan,Italy,September,14.4,94
+Moscow,Russia,April,1,141
+Moscow,Russia,August,11.3,141
+Moscow,Russia,December,-8.3,141
+Moscow,Russia,February,-10.6,141
+Moscow,Russia,January,-9.3,141
+Moscow,Russia,July,13,141
+Moscow,Russia,June,10.5,141
+Moscow,Russia,March,-5.6,141
+Moscow,Russia,May,5.7,141
+Moscow,Russia,November,-4.5,141
+Moscow,Russia,October,1.6,141
+Moscow,Russia,September,6.1,141
+Mumbai,India,April,24,403
+Mumbai,India,August,25.2,403
+Mumbai,India,December,18.3,403
+Mumbai,India,February,18,403
+Mumbai,India,January,16.9,403
+Mumbai,India,July,25.5,403
+Mumbai,India,June,26.4,403
+Mumbai,India,March,21.1,403
+Mumbai,India,May,26.7,403
+Mumbai,India,November,21.2,403
+Mumbai,India,October,23.6,403
+Mumbai,India,September,24.7,403
+Munich,Germany,April,3.3,108
+Munich,Germany,August,12.6,108
+Munich,Germany,December,-2.7,108
+Munich,Germany,February,-3,108
+Munich,Germany,January,-3.8,108
+Munich,Germany,July,13,108
+Munich,Germany,June,11.1,108
+Munich,Germany,March,0.3,108
+Munich,Germany,May,7.9,108
+Munich,Germany,November,0.2,108
+Munich,Germany,October,4.8,108
+Munich,Germany,September,8.4,108
+Nairobi,Kenya,April,15.1,466
+Nairobi,Kenya,August,11.8,466
+Nairobi,Kenya,December,14.3,466
+Nairobi,Kenya,February,13.4,466
+Nairobi,Kenya,January,13.6,466
+Nairobi,Kenya,July,11.5,466
+Nairobi,Kenya,June,12.6,466
+Nairobi,Kenya,March,14.8,466
+Nairobi,Kenya,May,14.3,466
+Nairobi,Kenya,November,14.7,466
+Nairobi,Kenya,October,13.9,466
+Nairobi,Kenya,September,12.2,466
+Nanjing,China,April,9,494
+Nanjing,China,August,23.3,494
+Nanjing,China,December,0.1,494
+Nanjing,China,February,-0.1,494
+Nanjing,China,January,-1.4,494
+Nanjing,China,July,23.9,494
+Nanjing,China,June,20,494
+Nanjing,China,March,3.7,494
+Nanjing,China,May,14.9,494
+Nanjing,China,November,6.3,494
+Nanjing,China,October,12.8,494
+Nanjing,China,September,18.3,494
+New York City,United States of America,April,5.6,393
+New York City,United States of America,August,19.4,393
+New York City,United States of America,December,-0.7,393
+New York City,United States of America,February,-2.8,393
+New York City,United States of America,January,-3,393
+New York City,United States of America,July,19.7,393
+New York City,United States of America,June,16.5,393
+New York City,United States of America,March,0.4,393
+New York City,United States of America,May,10.8,393
+New York City,United States of America,November,4.3,393
+New York City,United States of America,October,9.5,393
+New York City,United States of America,September,15.7,393
+Nice,France,April,9.9,101
+Nice,France,August,20.4,101
+Nice,France,December,6.1,101
+Nice,France,February,6,101
+Nice,France,January,5.4,101
+Nice,France,July,20.1,101
+Nice,France,June,17.5,101
+Nice,France,March,7.9,101
+Nice,France,May,14.2,101
+Nice,France,November,9,101
+Nice,France,October,13.4,101
+Nice,France,September,16.8,101
+Orlando,United States of America,April,15.2,463
+Orlando,United States of America,August,23,463
+Orlando,United States of America,December,10.8,463
+Orlando,United States of America,February,10.9,463
+Orlando,United States of America,January,9.8,463
+Orlando,United States of America,July,22.9,463
+Orlando,United States of America,June,21.9,463
+Orlando,United States of America,March,12.9,463
+Orlando,United States of America,May,18.8,463
+Orlando,United States of America,November,14.2,463
+Orlando,United States of America,October,18.9,463
+Orlando,United States of America,September,22.5,463
+Paris,France,April,5.9,62
+Paris,France,August,14.5,62
+Paris,France,December,2.5,62
+Paris,France,February,2.4,62
+Paris,France,January,2.5,62
+Paris,France,July,14.5,62
+Paris,France,June,12.6,62
+Paris,France,March,4.4,62
+Paris,France,May,9.9,62
+Paris,France,November,4.5,62
+Paris,France,October,8.5,62
+Paris,France,September,11.2,62
+Phuket,Thailand,April,23.5,484
+Phuket,Thailand,August,23.3,484
+Phuket,Thailand,December,22.1,484
+Phuket,Thailand,February,21.4,484
+Phuket,Thailand,January,21.4,484
+Phuket,Thailand,July,23.3,484
+Phuket,Thailand,June,23.6,484
+Phuket,Thailand,March,22.2,484
+Phuket,Thailand,May,23.8,484
+Phuket,Thailand,November,22.9,484
+Phuket,Thailand,October,23.2,484
+Phuket,Thailand,September,23.2,484
+Prague,Czech Republic,April,4.1,120
+Prague,Czech Republic,August,13.3,120
+Prague,Czech Republic,December,-1.9,120
+Prague,Czech Republic,February,-1.8,120
+Prague,Czech Republic,January,-2.5,120
+Prague,Czech Republic,July,13.6,120
+Prague,Czech Republic,June,11.9,120
+Prague,Czech Republic,March,0.8,120
+Prague,Czech Republic,May,8.6,120
+Prague,Czech Republic,November,1.1,120
+Prague,Czech Republic,October,5.3,120
+Prague,Czech Republic,September,9.4,120
+Punta Cana,Dominican Republic,April,19.9,522
+Punta Cana,Dominican Republic,August,18.5,522
+Punta Cana,Dominican Republic,December,20,522
+Punta Cana,Dominican Republic,February,17.1,522
+Punta Cana,Dominican Republic,January,16.8,522
+Punta Cana,Dominican Republic,July,16.9,522
+Punta Cana,Dominican Republic,June,19.5,522
+Punta Cana,Dominican Republic,March,18.6,522
+Punta Cana,Dominican Republic,May,19.3,522
+Punta Cana,Dominican Republic,November,19.1,522
+Punta Cana,Dominican Republic,October,20.5,522
+Punta Cana,Dominican Republic,September,17.9,522
+Rio de Janeiro,Brazil,April,22.1,499
+Rio de Janeiro,Brazil,August,17.8,499
+Rio de Janeiro,Brazil,December,22.9,499
+Rio de Janeiro,Brazil,February,24,499
+Rio de Janeiro,Brazil,January,23.8,499
+Rio de Janeiro,Brazil,July,17.2,499
+Rio de Janeiro,Brazil,June,18,499
+Rio de Janeiro,Brazil,March,23.3,499
+Rio de Janeiro,Brazil,May,19.3,499
+Rio de Janeiro,Brazil,November,21.6,499
+Rio de Janeiro,Brazil,October,20.5,499
+Rio de Janeiro,Brazil,September,18.8,499
+Riyadh,Saudi Arabia,April,20,447
+Riyadh,Saudi Arabia,August,30,447
+Riyadh,Saudi Arabia,December,9,447
+Riyadh,Saudi Arabia,February,10,447
+Riyadh,Saudi Arabia,January,7,447
+Riyadh,Saudi Arabia,July,29,447
+Riyadh,Saudi Arabia,June,28,447
+Riyadh,Saudi Arabia,March,16,447
+Riyadh,Saudi Arabia,May,26,447
+Riyadh,Saudi Arabia,November,15.3,447
+Riyadh,Saudi Arabia,October,21,447
+Riyadh,Saudi Arabia,September,26,447
+Rome,Italy,April,8.2,82
+Rome,Italy,August,19.3,82
+Rome,Italy,December,4.4,82
+Rome,Italy,February,3,82
+Rome,Italy,January,3,82
+Rome,Italy,July,19,82
+Rome,Italy,June,16.8,82
+Rome,Italy,March,6.1,82
+Rome,Italy,May,13.1,82
+Rome,Italy,November,7.9,82
+Rome,Italy,October,12.3,82
+Rome,Italy,September,15.6,82
+San Francisco,Argentina,April,7.9,585
+San Francisco,Argentina,August,14.5,585
+San Francisco,Argentina,December,4.3,585
+San Francisco,Argentina,February,5.5,585
+San Francisco,Argentina,January,4.1,585
+San Francisco,Argentina,July,14.7,585
+San Francisco,Argentina,June,13.3,585
+San Francisco,Argentina,March,7,585
+San Francisco,Argentina,May,11.2,585
+San Francisco,Argentina,November,6.6,585
+San Francisco,Argentina,October,10.8,585
+San Francisco,Argentina,September,13.3,585
+Sao Paulo,Brazil,April,18,537
+Sao Paulo,Brazil,August,13.7,537
+Sao Paulo,Brazil,December,18.8,537
+Sao Paulo,Brazil,February,20,537
+Sao Paulo,Brazil,January,19.9,537
+Sao Paulo,Brazil,July,13,537
+Sao Paulo,Brazil,June,14.1,537
+Sao Paulo,Brazil,March,19.5,537
+Sao Paulo,Brazil,May,15.2,537
+Sao Paulo,Brazil,November,17.4,537
+Sao Paulo,Brazil,October,16.5,537
+Sao Paulo,Brazil,September,14.7,537
+Seoul,South Korea,April,7.6,447
+Seoul,South Korea,August,22.1,447
+Seoul,South Korea,December,-3.4,447
+Seoul,South Korea,February,-3.5,447
+Seoul,South Korea,January,-5.7,447
+Seoul,South Korea,July,21.6,447
+Seoul,South Korea,June,17.8,447
+Seoul,South Korea,March,1.5,447
+Seoul,South Korea,May,12.8,447
+Seoul,South Korea,November,2.8,447
+Seoul,South Korea,October,9.8,447
+Seoul,South Korea,September,16.9,447
+Shanghai,China,April,12.1,405
+Shanghai,China,August,25.5,405
+Shanghai,China,December,3.3,405
+Shanghai,China,February,2.7,405
+Shanghai,China,January,1.1,405
+Shanghai,China,July,25.8,405
+Shanghai,China,June,21.7,405
+Shanghai,China,March,6.8,405
+Shanghai,China,May,17.2,405
+Shanghai,China,November,9.5,405
+Shanghai,China,October,15.4,405
+Shanghai,China,September,21.3,405
+Sharm el-Sheikh,Egypt,April,18.2,500
+Sharm el-Sheikh,Egypt,August,27.3,500
+Sharm el-Sheikh,Egypt,December,13.2,500
+Sharm el-Sheikh,Egypt,February,11.9,500
+Sharm el-Sheikh,Egypt,January,11.4,500
+Sharm el-Sheikh,Egypt,July,27.3,500
+Sharm el-Sheikh,Egypt,June,25.6,500
+Sharm el-Sheikh,Egypt,March,14.6,500
+Sharm el-Sheikh,Egypt,May,22.5,500
+Sharm el-Sheikh,Egypt,November,17.2,500
+Sharm el-Sheikh,Egypt,October,21.8,500
+Sharm el-Sheikh,Egypt,September,25.1,500
+Shenzhen,China,April,18.5,504
+Shenzhen,China,August,24.8,504
+Shenzhen,China,December,11.1,504
+Shenzhen,China,February,11.6,504
+Shenzhen,China,January,10.3,504
+Shenzhen,China,July,24.9,504
+Shenzhen,China,June,23.5,504
+Shenzhen,China,March,14.8,504
+Shenzhen,China,May,22.2,504
+Shenzhen,China,November,15.5,504
+Shenzhen,China,October,20.5,504
+Shenzhen,China,September,23,504
+Siem Reap,Cambodia,April,25.4,561
+Siem Reap,Cambodia,August,24.6,561
+Siem Reap,Cambodia,December,20.2,561
+Siem Reap,Cambodia,February,22.5,561
+Siem Reap,Cambodia,January,20.7,561
+Siem Reap,Cambodia,July,24.8,561
+Siem Reap,Cambodia,June,25.2,561
+Siem Reap,Cambodia,March,24.5,561
+Siem Reap,Cambodia,May,25.4,561
+Siem Reap,Cambodia,November,22.1,561
+Siem Reap,Cambodia,October,24,561
+Siem Reap,Cambodia,September,24.5,561
+Singapore,Singapore,April,24.9,455
+Singapore,Singapore,August,24.7,455
+Singapore,Singapore,December,24,455
+Singapore,Singapore,February,24.2,455
+Singapore,Singapore,January,24,455
+Singapore,Singapore,July,24.8,455
+Singapore,Singapore,June,25.1,455
+Singapore,Singapore,March,24.5,455
+Singapore,Singapore,May,25.3,455
+Singapore,Singapore,November,24.2,455
+Singapore,Singapore,October,24.6,455
+Singapore,Singapore,September,24.6,455
+Sofia,Bulgaria,April,4.5,150
+Sofia,Bulgaria,August,14,150
+Sofia,Bulgaria,December,-4,150
+Sofia,Bulgaria,February,-4,150
+Sofia,Bulgaria,January,-5.4,150
+Sofia,Bulgaria,July,14.3,150
+Sofia,Bulgaria,June,12.5,150
+Sofia,Bulgaria,March,0,150
+Sofia,Bulgaria,May,8.9,150
+Sofia,Bulgaria,November,0.2,150
+Sofia,Bulgaria,October,5.6,150
+Sofia,Bulgaria,September,9.8,150
+St Petersburg,Russia,April,0.2,176
+St Petersburg,Russia,August,11.3,176
+St Petersburg,Russia,December,-6.7,176
+St Petersburg,Russia,February,-9.5,176
+St Petersburg,Russia,January,-8,176
+St Petersburg,Russia,July,12.6,176
+St Petersburg,Russia,June,9.7,176
+St Petersburg,Russia,March,-5.5,176
+St Petersburg,Russia,May,4.5,176
+St Petersburg,Russia,November,-3.3,176
+St Petersburg,Russia,October,2.3,176
+St Petersburg,Russia,September,6.6,176
+Sydney,Australia,April,14.6,672
+Sydney,Australia,August,8.7,672
+Sydney,Australia,December,18,672
+Sydney,Australia,February,19.5,672
+Sydney,Australia,January,19.4,672
+Sydney,Australia,July,7.9,672
+Sydney,Australia,June,9.1,672
+Sydney,Australia,March,17.8,672
+Sydney,Australia,May,11.8,672
+Sydney,Australia,November,15.7,672
+Sydney,Australia,October,13.6,672
+Sydney,Australia,September,11,672
+Taipei City,Taiwan,April,19,571
+Taipei City,Taiwan,August,25.8,571
+Taipei City,Taiwan,December,16,571
+Taipei City,Taiwan,February,13.7,571
+Taipei City,Taiwan,January,13.6,571
+Taipei City,Taiwan,July,26.1,571
+Taipei City,Taiwan,June,24.5,571
+Taipei City,Taiwan,March,15.7,571
+Taipei City,Taiwan,May,22,571
+Taipei City,Taiwan,November,19.2,571
+Taipei City,Taiwan,October,21.6,571
+Taipei City,Taiwan,September,24.3,571
+Tokyo,Japan,April,8.2,458
+Tokyo,Japan,August,22.7,458
+Tokyo,Japan,December,1.1,458
+Tokyo,Japan,February,-0.4,458
+Tokyo,Japan,January,-1,458
+Tokyo,Japan,July,21.7,458
+Tokyo,Japan,June,17.8,458
+Tokyo,Japan,March,2.7,458
+Tokyo,Japan,May,13.2,458
+Tokyo,Japan,November,6.3,458
+Tokyo,Japan,October,12.9,458
+Tokyo,Japan,September,19.1,458
+Toronto,Canada,April,2.8,279
+Toronto,Canada,August,18.2,279
+Toronto,Canada,December,-3.2,279
+Toronto,Canada,February,-6.2,279
+Toronto,Canada,January,-6.5,279
+Toronto,Canada,July,18,279
+Toronto,Canada,June,14.3,279
+Toronto,Canada,March,-2.4,279
+Toronto,Canada,May,8.1,279
+Toronto,Canada,November,2.8,279
+Toronto,Canada,October,8.4,279
+Toronto,Canada,September,14.6,279
+Vancouver,Canada,April,5.4,335
+Vancouver,Canada,August,13.5,335
+Vancouver,Canada,December,0.7,335
+Vancouver,Canada,February,0.8,335
+Vancouver,Canada,January,0.9,335
+Vancouver,Canada,July,13.6,335
+Vancouver,Canada,June,11.5,335
+Vancouver,Canada,March,2.9,335
+Vancouver,Canada,May,8.6,335
+Vancouver,Canada,November,3.2,335
+Vancouver,Canada,October,6.8,335
+Vancouver,Canada,September,10.7,335
+Venice,Italy,April,8.3,119
+Venice,Italy,August,18.5,119
+Venice,Italy,December,1.1,119
+Venice,Italy,February,0.6,119
+Venice,Italy,January,0.1,119
+Venice,Italy,July,18.7,119
+Venice,Italy,June,16.9,119
+Venice,Italy,March,4.5,119
+Venice,Italy,May,13.5,119
+Venice,Italy,November,5.3,119
+Venice,Italy,October,10.4,119
+Venice,Italy,September,14.4,119
+Vienna,Austria,April,4.6,117
+Vienna,Austria,August,14.1,117
+Vienna,Austria,December,-1.9,117
+Vienna,Austria,February,-2.1,117
+Vienna,Austria,January,-2.8,117
+Vienna,Austria,July,14.4,117
+Vienna,Austria,June,12.8,117
+Vienna,Austria,March,1.1,117
+Vienna,Austria,May,9.4,117
+Vienna,Austria,November,2,117
+Vienna,Austria,October,6,117
+Vienna,Austria,September,10.2,117
+Warsaw,Poland,April,3.3,115
+Warsaw,Poland,August,12.8,115
+Warsaw,Poland,December,-3.4,115
+Warsaw,Poland,February,-3.5,115
+Warsaw,Poland,January,-4,115
+Warsaw,Poland,July,13.6,115
+Warsaw,Poland,June,11.3,115
+Warsaw,Poland,March,-1.3,115
+Warsaw,Poland,May,8,115
+Warsaw,Poland,November,0,115
+Warsaw,Poland,October,4.4,115
+Warsaw,Poland,September,8.5,115
+Washington D.C.,United States of America,April,8.3,492
+Washington D.C.,United States of America,August,20.8,492
+Washington D.C.,United States of America,December,0.8,492
+Washington D.C.,United States of America,February,-0.5,492
+Washington D.C.,United States of America,January,-0.5,492
+Washington D.C.,United States of America,July,21.3,492
+Washington D.C.,United States of America,June,18.7,492
+Washington D.C.,United States of America,March,3,492
+Washington D.C.,United States of America,May,13.4,492
+Washington D.C.,United States of America,November,5.4,492
+Washington D.C.,United States of America,October,10.8,492
+Washington D.C.,United States of America,September,17.2,492
