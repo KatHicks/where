@@ -27,41 +27,95 @@
 
 		  	<div class="row">
 
-			    <div class="col-md-4">
-			    	<h2>{{ city1 }}</h2>
-			    	<h3>{{ country1 }}</h3>
-			    	<br>
-			    	<img src="{{ url1 }}" style="height: 200px; border: 5px solid #ddd; border-radius: 4px;"/>
+		  		{% if results==3 %}
 
-			    	<div class="details">
-			    		<p>Details:</p>
-		    			<p>The average flight price from London to {{ city1 }} is &#163;{{ price1 }} and the average temperature is {{ temp1 }}&deg;C in {{ month1 }}.</p>
-					</div>
-			    </div>
+				    <div class="col-md-4">
+				    	<h2>{{ city1 }}</h2>
+				    	<h3>{{ country1 }}</h3>
+				    	<br>
+				    	<img src="{{ url1 }}" class="center-block"/>
 
-			    <div class="col-md-4">
-			    	<h2>{{ city2 }}</h2>
-			    	<h3>{{ country2 }}</h3>
-			    	<br>
-			    	<img src="{{ url2 }}" style="height: 200px; border: 5px solid #ddd; border-radius: 4px;" />
+				    	<br>
+				    	<div class="details">
+				    		<p>Details:</p>
+			    			<p>The average flight price from London to {{ city1 }} is &#163;{{ price1 }} and the average temperature is {{ temp1 }}&deg;C in {{ month1 }}.</p>
+						</div>
+				    </div>
 
-			    	<div class="details">
-			    		<p>Details:</p>
-		    			<p>The average flight price from London to {{ city2 }} is &#163;{{ price2 }} and the average temperature is {{ temp2 }}&deg;C in {{ month2 }}.</p>
-					</div>
-			    </div>
+				    <div class="col-md-4">
+				    	<h2>{{ city2 }}</h2>
+				    	<h3>{{ country2 }}</h3>
+				    	<br>
+				    	<img src="{{ url2 }}" class="center-block"/>
 
-			    <div class="col-md-4">
-			    	<h2>{{ city3 }}</h2>
-			    	<h3>{{ country3 }}</h3>
-			    	<br>
-			    	<img src="{{ url3 }}" style="height: 200px; border: 5px solid #ddd; border-radius: 4px;" />
+			    		<br>
+				    	<div class="details">
+				    		<p>Details:</p>
+			    			<p>The average flight price from London to {{ city2 }} is &#163;{{ price2 }} and the average temperature is {{ temp2 }}&deg;C in {{ month2 }}.</p>
+						</div>
+				    </div>
 
-			    	<div class="details">
-			    		<p>Details:</p>
-		    			<p>The average flight price from London to {{ city3 }} is &#163;{{ price3 }} and the average temperature is {{ temp3 }}&deg;C in {{ month3 }}.</p>
-					</div>
-			    </div>
+				    <div class="col-md-4">
+				    	<h2>{{ city3 }}</h2>
+				    	<h3>{{ country3 }}</h3>
+				    	<br>
+				    	<img src="{{ url3 }}" class="center-block"/>
+
+				    	<br>
+				    	<div class="details">
+				    		<p>Details:</p>
+			    			<p>The average flight price from London to {{ city3 }} is &#163;{{ price3 }} and the average temperature is {{ temp3 }}&deg;C in {{ month3 }}.</p>
+						</div>
+				    </div>
+
+			    {% elif results==2 %}
+
+			    	<div class="col-md-6">
+				    	<h2>{{ city1 }}</h2>
+				    	<h3>{{ country1 }}</h3>
+				    	<br>
+				    	<img src="{{ url1 }}" class="center-block"/>
+
+				    	<br>
+				    	<div class="details">
+				    		<p>Details:</p>
+			    			<p>The average flight price from London to {{ city1 }} is &#163;{{ price1 }} and the average temperature is {{ temp1 }}&deg;C in {{ month1 }}.</p>
+						</div>
+				    </div>
+
+				    <div class="col-md-6">
+				    	<h2>{{ city2 }}</h2>
+				    	<h3>{{ country2 }}</h3>
+				    	<br>
+				    	<img src="{{ url2 }}" class="center-block"/>
+
+				    	<br>
+				    	<div class="details">
+				    		<p>Details:</p>
+			    			<p>The average flight price from London to {{ city2 }} is &#163;{{ price2 }} and the average temperature is {{ temp2 }}&deg;C in {{ month2 }}.</p>
+						</div>
+				    </div>
+
+			    {% elif results==1 %}
+			    	<div class="col-md-12">
+				    	<h2>{{ city1 }}</h2>
+				    	<h3>{{ country1 }}</h3>
+				    	<br>
+				    	<img src="{{ url1 }}" class="center-block"/>
+
+				    	<br>
+				    	<div class="details">
+				    		<p>Details:</p>
+			    			<p>The average flight price from London to {{ city1 }} is &#163;{{ price1 }} and the average temperature is {{ temp1 }}&deg;C in {{ month1 }}.</p>
+						</div>
+				    </div>
+
+			    {% else %}
+			    	<div class="col-md-12">
+			    		<h2>Uh oh, we've returned no matches to these search terms. Try again!</h2>
+			    	</div>
+
+		    	{% endif %}
 
 		  	</div>
 
