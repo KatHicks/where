@@ -178,7 +178,7 @@ def send_simple_message():
               "to": email,
               "subject": "Hello {0}".format(name),
               "text": "html hasn't loaded",
-			"html": "<html><h1>Hello from where. Here are your results:</h1></html>"})
+			"html": "<html><h1>Hello from where. Here are your results:</h1><br></html>"})
     return render_template("confirmation.html")
 
 
