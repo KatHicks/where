@@ -166,4 +166,19 @@ def photo(city):
 
 	return result
 
+@app.route("/confirmation", methods=['post'])
+def send_simple_message():
+    email = request.form['email']
+    name = request.form['name']
+    requests.post(
+        "https://api.mailgun.net/v3/sandbox6e63b31df83c4ef9be4afc85d1d8737f.mailgun.org/messages",
+        auth=("api", "key-13154350349d66ca58dc6f9e7065c392"),
+        data={"from": "where. <miriam.keshani@gmail.com>",
+              "to": email,
+              "subject": "Hello {0}".format(name),
+              "text": "html hasn't loaded",
+			"html": "<html><h1>Hello from where. Here are your results:</h1></html>"})
+    return render_template("confirmation.html")
+
+
 app.run(debug=True)
