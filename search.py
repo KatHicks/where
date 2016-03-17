@@ -38,7 +38,7 @@ def selector():
 		min_temp = -273
 		max_temp = 5
 	else:
-		print "uh oh wrong temperature input"
+		print "Uh oh, wrong temperature input!"
 
 	if average_flight == 'cheap':
 		min_flight = 0
@@ -50,7 +50,7 @@ def selector():
 		min_flight = 350
 		max_flight = sys.maxint
 	else:
-		print "uh oh wrong budget input"
+		print "Uh oh, wrong budget input!"
 
 	with open("cities-data.csv") as csvfile:
 	 	input_file = csv.DictReader(csvfile)
@@ -67,14 +67,31 @@ def selector():
 
 	destinations = filtered_list[0:3]
 
-	print destinations
-
 	#example result for destinations: 
 	#[{'Avg_Min_Flight_Price_GBP': '405', 'City': 'Shanghai', 'Month': 'June', 'Avg_Min_Temp_C': '21.7', 'Country': 'China'}, 
 	#{'Avg_Min_Flight_Price_GBP': '429', 'City': 'Kolkata', 'Month': 'June', 'Avg_Min_Temp_C': '20.1', 'Country': 'India'}, 
 	#{'Avg_Min_Flight_Price_GBP': '433', 'City': 'Ho Chi Minh City', 'Month': 'June', 'Avg_Min_Temp_C': '24.5', 'Country': 'Vietnam'}]
 
-	return render_template("result.html")
+	#---END OF SELECTOR SECTION AND START OF RENDERING SECTION---#
+
+	result_one = destinations[0]
+	result_two = destinations[1]
+	#result_three = destinations[2]
+
+	#declaring city name and country name variables to pass into the render template
+	city_one = result_one['City']
+	country_one = result_one['Country']
+	city_img_one = "https://source.unsplash.com/category/buildings/?" + city_one
+
+	city_two = result_two['City']
+	country_two = result_two['Country']
+	city_img_two = "https://source.unsplash.com/category/buildings/?" + city_two
+
+	print result_one
+	print result_two
+	#print result_three
+
+	return render_template("result.html", city1=city_one, country1=country_one, url1=city_img_one, city2=city_two, country2=country_two, url2=city_img_two)
 
 #image api query
 #city_img = "https://source.unsplash.com/category/buildings/?" + "london"
