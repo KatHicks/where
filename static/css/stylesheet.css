@@ -41,8 +41,32 @@ h3 {
 
 select {
 	margin-bottom: 20px;
+	width: 350px;
+}
+
+label {
+	text-align: left;
+}
+
+input {
+	text-align: center;
 }
 
 form {
-	padding: 20px;
+	display: inline-block;
+    margin: 0 auto;
+
+    padding: 20px;
+	margin: 50px;
+	float: center;
+	background-color: #FFFFFF;
+	border-style: solid;
+	border-radius: 10px;
+	border-width: 2px;
+	border-color: #3D3C40;
+	max-width: 600px;
+
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
 }
+
