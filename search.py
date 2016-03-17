@@ -24,6 +24,7 @@ def selector():
 	global email_city1
 	global email_city2
 	global email_city3
+
 	form_data = request.form
 
 	filtered_list = []
@@ -196,13 +197,13 @@ def send_simple_message():
     email = request.form['email']
     name = request.form['name']
     return requests.post(
-        "https://api.mailgun.net/v3/sandbox6e63b31df83c4ef9be4afc85d1d8737f.mailgun.org/messages",
-        auth=("api", "key-13154350349d66ca58dc6f9e7065c392"),
+        "https://api.mailgun.net/v3/sandbox7175460bd9944fee8d9d247ffdd06ace.mailgun.org/messages",
+        auth=("api", "key-25a3c79b9e61362d34e5a7a4dbd6da40"),
         data={"from": "where. <miriam.keshani@gmail.com>",
               "to": email,
               "subject": "Hello {0}".format(name),
               "text": "html hasn't loaded",
-			"html": "<html><h2>Hello from where.</h2><br><h3>Enjoy your trip to  %s, %s, or %s</h3></html>" % (email_city1, email_city2, email_city3)})
+			"html": "<html><h2>Hello from where.</h2><br><h3>Enjoy your trip to %s, %s, or %s!</h3></html>" % (email_city1, email_city2, email_city3)})
 
 
 

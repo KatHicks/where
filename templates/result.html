@@ -17,7 +17,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-12">
-					<h2>Results</h2>
+					<h2>Top Destinations</h2>
 					<p id="status">We found {{ results }} matches.</p>
 					<button type="button" class="btn btn-sm btn-success center-block" onclick="location.href = '/form'">
 						Return to form
@@ -119,23 +119,21 @@
 
 		  	</div>
 
-		</div>
+				<div id="results-form">
+					<br>
+					<h4>Email me these results</h4>
+					<form method="post" action="/confirmation">
+						<label for="name">Name: </label>
+						<input type="text" id="name" name="name" value="" placeholder="Julius Ceaser" required="required" autofocus="autofocus" />
+						<br><br>
 
-		<div id="restuls-form">
-			<br>
-			<h4>Email me these results</h4>
-			<form method="post" action="/confirmation">
-				<label for="name">Name: </label>
-				<input type="text" id="name" name="name" value="" placeholder="Julius Ceaser" required="required" autofocus="autofocus" />
-				<br>
-				<br>
-				<label for="email">Email Address: </label>
-				<input type="email" id="email" name="email" value="" placeholder="julius@rome.com" required="required" />
-				<br>
-				<br>
-				<input type="submit" value="Send" id="submit-button" />
-			</form>
-		</div>
+						<label for="email">Email Address: </label>
+						<input type="email" id="email" name="email" value="" placeholder="julius@rome.com" required="required" />
+						<br><br>
 
+						<input type="submit" value="Send" id="submit-button" />
+					</form>
+				</div>
+		</div>
 	<body>
 <html>
