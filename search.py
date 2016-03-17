@@ -74,27 +74,59 @@ def selector():
 
 	#---END OF SELECTOR SECTION AND START OF RENDERING SECTION---#
 
-	result_one = destinations[0]
-	result_two = destinations[1]
-	#result_three = destinations[2]
+	if len(destinations)==3:
+		result_one = destinations[0]
+		result_two = destinations[1]
+		result_three = destinations[2]
 
-	#declaring city name and country name variables to pass into the render template
-	city_one = result_one['City']
-	country_one = result_one['Country']
-	city_img_one = "https://source.unsplash.com/category/buildings/?" + city_one
+		#declaring variables to pass into the render template
+		city_one = result_one['City']
+		country_one = result_one['Country']
+		city_img_one = "https://source.unsplash.com/category/buildings/?" + city_one
 
-	city_two = result_two['City']
-	country_two = result_two['Country']
-	city_img_two = "https://source.unsplash.com/category/buildings/?" + city_two
+		city_two = result_two['City']
+		country_two = result_two['Country']
+		city_img_two = "https://source.unsplash.com/category/buildings/?" + city_two
 
-	print result_one
-	print result_two
-	#print result_three
+		city_three = result_three['City']
+		country_three = result_three['Country']
+		city_img_three = "https://source.unsplash.com/category/buildings/?" + city_three
 
-	return render_template("result.html", city1=city_one, country1=country_one, url1=city_img_one, city2=city_two, country2=country_two, url2=city_img_two)
+		return render_template("result.html", 
+			city1=city_one, country1=country_one, url1=city_img_one, 
+			city2=city_two, country2=country_two, url2=city_img_two,
+			city3=city_three, country3=country_three, url3=city_img_three)
 
-#image api query
-#city_img = "https://source.unsplash.com/category/buildings/?" + "london"
-#note to render into html page need to be arguments of a new function and added into render_template
+	elif len(destinations)==2:
+
+		result_one = destinations[0]
+		result_two = destinations[1]
+
+		#declaring variables to pass into the render template
+		city_one = result_one['City']
+		country_one = result_one['Country']
+		city_img_one = "https://source.unsplash.com/category/buildings/?" + city_one
+
+		city_two = result_two['City']
+		country_two = result_two['Country']
+		city_img_two = "https://source.unsplash.com/category/buildings/?" + city_two
+
+		return render_template("result.html", 
+			city1=city_one, country1=country_one, url1=city_img_one, 
+			city2=city_two, country2=country_two, url2=city_img_two)
+
+	elif len(destinations)==1:
+		result_one = destinations[0]
+
+		#declaring variables to pass into the render template
+		city_one = result_one['City']
+		country_one = result_one['Country']
+		city_img_one = "https://source.unsplash.com/category/buildings/?" + city_one
+
+		return render_template("result.html", 
+			city1=city_one, country1=country_one, url1=city_img_one)
+
+	else:
+		return render_template("result.html")
 
 app.run(debug=True)
