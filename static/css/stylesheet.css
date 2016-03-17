@@ -78,3 +78,8 @@ form {
 	border-color: #3D3C40;
 	text-align: left;
 }
+
+#status {
+	text-align: center;
+	padding: 5px;
+}

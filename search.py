@@ -75,6 +75,8 @@ def selector():
 	#---END OF SELECTOR SECTION AND START OF RENDERING SECTION---#
 
 	if len(destinations)==3:
+		no_results = len(destinations)
+
 		result_one = destinations[0]
 		result_two = destinations[1]
 		result_three = destinations[2]
@@ -101,12 +103,13 @@ def selector():
 		price_three = result_three['Avg_Min_Flight_Price_GBP']
 		temp_three = result_three['Avg_Min_Temp_C']
 
-		return render_template("result.html", 
+		return render_template("result.html", results=no_results,
 			city1=city_one, country1=country_one, url1=city_img_one, month1=month_one, price1=price_one, temp1=temp_one,
 			city2=city_two, country2=country_two, url2=city_img_two, month2=month_two, price2=price_two, temp2=temp_two,
 			city3=city_three, country3=country_three, url3=city_img_three, month3=month_three, price3=price_three, temp3=temp_three)
 
 	elif len(destinations)==2:
+		no_results = len(destinations)
 
 		result_one = destinations[0]
 		result_two = destinations[1]
@@ -126,11 +129,13 @@ def selector():
 		price_two = result_two['Avg_Min_Flight_Price_GBP']
 		temp_two = result_two['Avg_Min_Temp_C']
 
-		return render_template("result.html", 
+		return render_template("result.html", results=no_results,
 			city1=city_one, country1=country_one, url1=city_img_one, month1=month_one, price1=price_one, temp1=temp_one,
 			city2=city_two, country2=country_two, url2=city_img_two, month2=month_two, price2=price_two, temp2=temp_two)
 
 	elif len(destinations)==1:
+		no_results = len(destinations)
+
 		result_one = destinations[0]
 
 		#declaring variables to pass into the render template
@@ -141,10 +146,12 @@ def selector():
 		price_one = result_one['Avg_Min_Flight_Price_GBP']
 		temp_one = result_one['Avg_Min_Temp_C']
 
-		return render_template("result.html", 
+		return render_template("result.html", results=no_results,
 			city1=city_one, country1=country_one, url1=city_img_one, month1=month_one, price1=price_one, temp1=temp_one)
 
 	else:
-		return render_template("result.html")
+		no_results = len(destinations)
+
+		return render_template("result.html", results=no_results)
 
 app.run(debug=True)
