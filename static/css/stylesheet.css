@@ -62,12 +62,19 @@ form {
 }
 
 /*styling the results page*/
+img {
+	margin: 0 auto;
+	height: 200px; 
+	border: 5px solid #ddd; 
+	border-radius: 4px;
+}
+
 .btn-success {
 	font-size: 10px;
 }
 
 .details {
-	margin-top: 20px;
+	margin: 0 auto;
 	padding: 10px;
 	width: 300px;
 

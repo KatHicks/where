@@ -84,21 +84,21 @@ def selector():
 		#declaring variables to pass into the render template
 		city_one = result_one['City']
 		country_one = result_one['Country']
-		city_img_one = "https://source.unsplash.com/category/buildings/?" + city_one
+		city_img_one = photo(city_one)
 		month_one = result_one['Month']
 		price_one = result_one['Avg_Min_Flight_Price_GBP']
 		temp_one = result_one['Avg_Min_Temp_C']
 
 		city_two = result_two['City']
 		country_two = result_two['Country']
-		city_img_two = "https://source.unsplash.com/category/buildings/?" + city_two
+		city_img_two = photo(city_two)
 		month_two = result_two['Month']
 		price_two = result_two['Avg_Min_Flight_Price_GBP']
 		temp_two = result_two['Avg_Min_Temp_C']
 
 		city_three = result_three['City']
 		country_three = result_three['Country']
-		city_img_three = "https://source.unsplash.com/category/buildings/?" + city_three
+		city_img_three = photo(city_three)
 		month_three = result_three['Month']
 		price_three = result_three['Avg_Min_Flight_Price_GBP']
 		temp_three = result_three['Avg_Min_Temp_C']
@@ -117,14 +117,14 @@ def selector():
 		#declaring variables to pass into the render template
 		city_one = result_one['City']
 		country_one = result_one['Country']
-		city_img_one = "https://source.unsplash.com/category/buildings/?" + city_one
+		city_img_one = photo(city_one)
 		month_one = result_one['Month']
 		price_one = result_one['Avg_Min_Flight_Price_GBP']
 		temp_one = result_one['Avg_Min_Temp_C']
 
 		city_two = result_two['City']
 		country_two = result_two['Country']
-		city_img_two = "https://source.unsplash.com/category/buildings/?" + city_two
+		city_img_two = photo(city_two)
 		month_two = result_two['Month']
 		price_two = result_two['Avg_Min_Flight_Price_GBP']
 		temp_two = result_two['Avg_Min_Temp_C']
@@ -141,7 +141,7 @@ def selector():
 		#declaring variables to pass into the render template
 		city_one = result_one['City']
 		country_one = result_one['Country']
-		city_img_one = "https://source.unsplash.com/category/buildings/?" + city_one
+		city_img_one = photo(city_one)
 		month_one = result_one['Month']
 		price_one = result_one['Avg_Min_Flight_Price_GBP']
 		temp_one = result_one['Avg_Min_Temp_C']
@@ -153,5 +153,17 @@ def selector():
 		no_results = len(destinations)
 
 		return render_template("result.html", results=no_results)
+
+def photo(city):
+	endpoint = "https://pixabay.com/api/"
+	payload = {"q": city, "image_type": "photo", "orientation": "horizontal", 
+	"category": "places", "key": "2236877-ef4e6042c805ebc7c2a4c3711"}
+	response = requests.get(endpoint, params=payload)
+
+	data = response.json()
+
+	result = data['hits'][0]['webformatURL']
+
+	return result
 
 app.run(debug=True)
