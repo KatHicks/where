@@ -4,6 +4,8 @@ body {
 	background-attachment: fixed;
 }
 
+
+
 span {
     vertical-align: middle;
     text-align: center;
@@ -21,8 +23,17 @@ h2 {
 	font-size: 22px;
 }
 
-.btn-primary{
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+}
+
+.btn-primary {
 	margin: 30px;
+}
+
+.col-md-6 {
+	text-align: center;
 }
 
 select {
@@ -31,3 +42,4 @@ select {
 
 form {
 	padding: 20px;
+}
