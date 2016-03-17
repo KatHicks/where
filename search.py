@@ -15,7 +15,6 @@ def basic_form():
 
 #then loads results page after clicking submit on the form and uses form data in its return
 @app.route("/result", methods=['post'])
-
 def selector():
 	form_data = request.form
 
