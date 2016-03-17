@@ -12,7 +12,7 @@ input_file = None
 
 month = 'August' # = request.form['month']
 weather = 'hot' #= (request.form['month'])
-average_flight = 'cheap' #=flights_price = request.form['budget_flights'])
+average_flight = 'expensive' #=flights_price = request.form['budget_flights'])
 
 #weather selector
 if weather == 'hot':
@@ -34,10 +34,10 @@ else:
 if average_flight == 'cheap':
 	min_flight = 0
 	max_flight = 100
-elif(weather == 'midrange'):
+elif(average_flight == 'midrange'):
 	min_flight = 100
 	max_flight = 350
-elif(weather == 'expensive'):
+elif(average_flight == 'expensive'):
 	min_flight = 350
 	max_flight = sys.maxint
 else:
@@ -54,8 +54,8 @@ with open("cities-data.csv") as csvfile:
 #		min_temp = -273
 #		max_temp = sys.maxint
 		average_flight = float(row['Avg_Min_Flight_Price_GBP'])
-		min_flight = 0
-		max_flight = sys.maxint
+#		min_flight = 0
+#		max_flight = sys.maxint
 
 		if row_month == input_month and average_temp > min_temp and average_temp < max_temp and average_flight < max_flight and average_flight > min_flight:
 		 	filtered_list.append(row)
