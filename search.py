@@ -3,6 +3,11 @@ import requests, csv, unicodecsv, os, sys, operator
 
 app = Flask("where")
 
+email_city1 = None 
+email_city2 = None
+email_city3 = None
+
+
 #loads home page at parent root
 @app.route("/")
 def initial():
@@ -16,6 +21,9 @@ def basic_form():
 #then loads results page after clicking submit on the form and uses form data in its return
 @app.route("/result", methods=['post'])
 def selector():
+	global email_city1
+	global email_city2
+	global email_city3
 	form_data = request.form
 
 	filtered_list = []
@@ -103,6 +111,10 @@ def selector():
 		price_three = result_three['Avg_Min_Flight_Price_GBP']
 		temp_three = result_three['Avg_Min_Temp_C']
 
+		email_city1 = city_one 
+		email_city2 = city_two
+		email_city3 = city_three
+
 		return render_template("result.html", results=no_results,
 			city1=city_one, country1=country_one, url1=city_img_one, month1=month_one, price1=price_one, temp1=temp_one,
 			city2=city_two, country2=country_two, url2=city_img_two, month2=month_two, price2=price_two, temp2=temp_two,
@@ -129,6 +141,10 @@ def selector():
 		price_two = result_two['Avg_Min_Flight_Price_GBP']
 		temp_two = result_two['Avg_Min_Temp_C']
 
+		email_city1 = city_one 
+		email_city2 = city_two
+		email_city3 = None
+
 		return render_template("result.html", results=no_results,
 			city1=city_one, country1=country_one, url1=city_img_one, month1=month_one, price1=price_one, temp1=temp_one,
 			city2=city_two, country2=country_two, url2=city_img_two, month2=month_two, price2=price_two, temp2=temp_two)
@@ -145,6 +161,10 @@ def selector():
 		month_one = result_one['Month']
 		price_one = result_one['Avg_Min_Flight_Price_GBP']
 		temp_one = result_one['Avg_Min_Temp_C']
+
+		email_city1 = city_one 
+		email_city2 = None
+		email_city3 = None
 
 		return render_template("result.html", results=no_results,
 			city1=city_one, country1=country_one, url1=city_img_one, month1=month_one, price1=price_one, temp1=temp_one)
@@ -168,18 +188,22 @@ def photo(city):
 	return result
 
 @app.route("/confirmation", methods=['post'])
+def email():
+	send_simple_message()
+	return render_template("confirmation.html")
+
 def send_simple_message():
     email = request.form['email']
     name = request.form['name']
-    requests.post(
+    return requests.post(
         "https://api.mailgun.net/v3/sandbox6e63b31df83c4ef9be4afc85d1d8737f.mailgun.org/messages",
         auth=("api", "key-13154350349d66ca58dc6f9e7065c392"),
         data={"from": "where. <miriam.keshani@gmail.com>",
               "to": email,
               "subject": "Hello {0}".format(name),
               "text": "html hasn't loaded",
-			"html": "<html><h1>Hello from where. Here are your results:</h1><br></html>"})
-    return render_template("confirmation.html")
+			"html": "<html><h2>Hello from where.</h2><br><h3>Enjoy your trip to  %s, %s, or %s</h3></html>" % (email_city1, email_city2, email_city3)})
+
 
 
 app.run(debug=True)
