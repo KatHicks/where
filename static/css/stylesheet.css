@@ -14,13 +14,16 @@ span {
 }
 
 h1 {
+	padding-top: 100px;
+	padding-bottom: 50px;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 92px;
+	font-size: 100px;
+	font-weight: bold;
 }
 
 h2 {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 22px;
+	font-size: 24px;
 }
 
 h3 {
@@ -29,7 +32,7 @@ h3 {
 }
 
 .btn-primary {
-	margin: 30px;
+	margin: 25px;
 }
 
 .col-md-4 {
