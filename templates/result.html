@@ -14,14 +14,28 @@
 	
 	<body>
 
-		<div class="container">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-12">
+					<h2>Results</h2>
+					<button type="button" class="btn btn-sm btn-success center-block" onclick="location.href = '/form'">
+						Return to form
+					</button>
+				</div>
+			</div>
+
 		  	<div class="row">
 
 			    <div class="col-md-4">
 			    	<h2>{{ city1 }}</h2>
 			    	<h3>{{ country1 }}</h3>
 			    	<br>
-			    	<img src="{{ url1 }}" style="height: 250px; border: 5px solid #ddd; border-radius: 4px;" />
+			    	<img src="{{ url1 }}" style="height: 250px; border: 5px solid #ddd; border-radius: 4px;"/>
+
+			    	<div class="details">
+			    		<p>Details:</p>
+		    			<p>The average flight price from London to {{ city1 }} is &#163;{{ price1 }} and the average temperature is {{ temp1 }}&deg;C in {{ month1 }}.</p>
+					</div>
 			    </div>
 
 			    <div class="col-md-4">
@@ -29,6 +43,11 @@
 			    	<h3>{{ country2 }}</h3>
 			    	<br>
 			    	<img src="{{ url2 }}" style="height: 250px; border: 5px solid #ddd; border-radius: 4px;" />
+
+			    	<div class="details">
+			    		<p>Details:</p>
+		    			<p>The average flight price from London to {{ city2 }} is &#163;{{ price2 }} and the average temperature is {{ temp2 }}&deg;C in {{ month2 }}.</p>
+					</div>
 			    </div>
 
 			    <div class="col-md-4">
@@ -36,6 +55,11 @@
 			    	<h3>{{ country3 }}</h3>
 			    	<br>
 			    	<img src="{{ url3 }}" style="height: 250px; border: 5px solid #ddd; border-radius: 4px;" />
+
+			    	<div class="details">
+			    		<p>Details:</p>
+		    			<p>The average flight price from London to {{ city3 }} is &#163;{{ price3 }} and the average temperature is {{ temp3 }}&deg;C in {{ month3 }}.</p>
+					</div>
 			    </div>
 
 		  	</div>

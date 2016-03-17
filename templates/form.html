@@ -13,50 +13,62 @@
 	</head>
 	
 	<body>
-		<div id="search_window">
-			<form method="post" action="/result" id="search_form">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-12">
+					<h2>Search</h2>
+					<h3>Tell us your holiday criteria.</h3>
+				</div>
+			</div>
 
-				<label for="month">When do you want to travel?</label></br>
-				<select id="month" name="month" form="search_form">
-					<!--Need to assign the value so its readable by the API-->
-					<!-- Need to add 'name' field that was equal to what I was referring to in the python file, otherwise get BAD REQUEST-->
-					<option value="January">January</option>
-				    <option value="February">February</option>
-				    <option value="March">March</option>
-				    <option value="April">April</option>
-				    <option value="May">May</option>
-				    <option value="June">June</option>
-				    <option value="July">July</option>
-				    <option value="August">August</option>
-				    <option value="Setpember">Setpember</option>
-				    <option value="October">October</option>
-				    <option value="November">November</option>
-				    <option value="December">December</option>
-				</select>
-				<br>
+			<div class="row">
+				<div class="col-md-12">
+					<form method="post" action="/result" id="search_form">
 
-				<label for="weather">What sort of weather do you want?</label></br>
-				<select id="weather" name="weather" form="search_form">
-					<option value="hot">Hot</option>
-					<option value="warm">Warm</option>
-					<option value="mild">Mild</option>
-					<option value="cold">Cold</option>
-				</select>
-				<br>
+						<label for="month">When do you want to travel?</label></br>
+						<select id="month" name="month" form="search_form">
+							<!--Need to assign the value so its readable by the API-->
+							<!-- Need to add 'name' field that was equal to what I was referring to in the python file, otherwise get BAD REQUEST-->
+							<option value="January">January</option>
+						    <option value="February">February</option>
+						    <option value="March">March</option>
+						    <option value="April">April</option>
+						    <option value="May">May</option>
+						    <option value="June">June</option>
+						    <option value="July">July</option>
+						    <option value="August">August</option>
+						    <option value="Setpember">Setpember</option>
+						    <option value="October">October</option>
+						    <option value="November">November</option>
+						    <option value="December">December</option>
+						</select>
+						<br>
 
-				<label for="budget_flights">How much can you afford to spend on flights?</label></br>
-				<select id="budget_flights" name="budget_flights" form="search_form">
-					<option value="cheap">&#163;0-100</option>
-					<option value="midrange">&#163;100-350</option>
-					<option value="expensive">&#163;350+</option>
-				</select>
-				<br>
-				<br>
-								
+						<label for="weather">What sort of weather do you want?</label></br>
+						<select id="weather" name="weather" form="search_form">
+							<option value="hot">Hot</option>
+							<option value="warm">Warm</option>
+							<option value="mild">Mild</option>
+							<option value="cold">Cold</option>
+						</select>
+						<br>
 
-				<br>
-				<input type="submit" value="Submit" id="submit-button" />
-				<br>
+						<label for="budget_flights">How much can you afford to spend on flights?</label></br>
+						<select id="budget_flights" name="budget_flights" form="search_form">
+							<option value="cheap">&#163;0-100</option>
+							<option value="midrange">&#163;100-350</option>
+							<option value="expensive">&#163;350+</option>
+						</select>
+						<br>
+						<br>
+										
+
+						<br>
+						<input type="submit" value="Submit" id="submit-button" class="btn btn-sm btn-default"/>
+						<br>
+					</form>
+				</div>
+			</div>
 		</div>
 	<body>
 <html>
