@@ -163,6 +163,7 @@ def photo(city):
 	data = response.json()
 
 	result = data['hits'][0]['webformatURL']
+	#result = data.get('hits', ) -- check inputs e.g. using get because hits can be empty (don't trust documentation) - issue found on July warm 100-350
 
 	return result
 
