@@ -83,19 +83,28 @@ def selector():
 		city_one = result_one['City']
 		country_one = result_one['Country']
 		city_img_one = "https://source.unsplash.com/category/buildings/?" + city_one
+		month_one = result_one['Month']
+		price_one = result_one['Avg_Min_Flight_Price_GBP']
+		temp_one = result_one['Avg_Min_Temp_C']
 
 		city_two = result_two['City']
 		country_two = result_two['Country']
 		city_img_two = "https://source.unsplash.com/category/buildings/?" + city_two
+		month_two = result_two['Month']
+		price_two = result_two['Avg_Min_Flight_Price_GBP']
+		temp_two = result_two['Avg_Min_Temp_C']
 
 		city_three = result_three['City']
 		country_three = result_three['Country']
 		city_img_three = "https://source.unsplash.com/category/buildings/?" + city_three
+		month_three = result_three['Month']
+		price_three = result_three['Avg_Min_Flight_Price_GBP']
+		temp_three = result_three['Avg_Min_Temp_C']
 
 		return render_template("result.html", 
-			city1=city_one, country1=country_one, url1=city_img_one, 
-			city2=city_two, country2=country_two, url2=city_img_two,
-			city3=city_three, country3=country_three, url3=city_img_three)
+			city1=city_one, country1=country_one, url1=city_img_one, month1=month_one, price1=price_one, temp1=temp_one,
+			city2=city_two, country2=country_two, url2=city_img_two, month2=month_two, price2=price_two, temp2=temp_two,
+			city3=city_three, country3=country_three, url3=city_img_three, month3=month_three, price3=price_three, temp3=temp_three)
 
 	elif len(destinations)==2:
 
@@ -106,14 +115,20 @@ def selector():
 		city_one = result_one['City']
 		country_one = result_one['Country']
 		city_img_one = "https://source.unsplash.com/category/buildings/?" + city_one
+		month_one = result_one['Month']
+		price_one = result_one['Avg_Min_Flight_Price_GBP']
+		temp_one = result_one['Avg_Min_Temp_C']
 
 		city_two = result_two['City']
 		country_two = result_two['Country']
 		city_img_two = "https://source.unsplash.com/category/buildings/?" + city_two
+		month_two = result_two['Month']
+		price_two = result_two['Avg_Min_Flight_Price_GBP']
+		temp_two = result_two['Avg_Min_Temp_C']
 
 		return render_template("result.html", 
-			city1=city_one, country1=country_one, url1=city_img_one, 
-			city2=city_two, country2=country_two, url2=city_img_two)
+			city1=city_one, country1=country_one, url1=city_img_one, month1=month_one, price1=price_one, temp1=temp_one,
+			city2=city_two, country2=country_two, url2=city_img_two, month2=month_two, price2=price_two, temp2=temp_two)
 
 	elif len(destinations)==1:
 		result_one = destinations[0]
@@ -122,9 +137,12 @@ def selector():
 		city_one = result_one['City']
 		country_one = result_one['Country']
 		city_img_one = "https://source.unsplash.com/category/buildings/?" + city_one
+		month_one = result_one['Month']
+		price_one = result_one['Avg_Min_Flight_Price_GBP']
+		temp_one = result_one['Avg_Min_Temp_C']
 
 		return render_template("result.html", 
-			city1=city_one, country1=country_one, url1=city_img_one)
+			city1=city_one, country1=country_one, url1=city_img_one, month1=month_one, price1=price_one, temp1=temp_one)
 
 	else:
 		return render_template("result.html")
