@@ -206,5 +206,5 @@ def send_simple_message():
 			"html": "<html><h2>Hello from where.</h2><br><h3>Enjoy your trip to %s, %s, or %s!</h3></html>" % (email_city1, email_city2, email_city3)})
 
 
-
-app.run(debug=True)
+if __name__ == '__main__':
+	app.run(debug=True)
