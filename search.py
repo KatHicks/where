@@ -7,7 +7,6 @@ email_city1 = None
 email_city2 = None
 email_city3 = None
 
-
 #loads home page at parent root
 @app.route("/")
 def initial():
